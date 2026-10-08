@@ -599,7 +599,10 @@
     padding: 24px;
   }
   .modal-thumb {
+    width: 100%;
+    max-width: 280px;
     aspect-ratio: 1 / 1;
+    margin: 0 auto;
     background: #ffffff;
     border: 1px solid var(--border-light);
     border-radius: var(--radius-md);
@@ -607,11 +610,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
   }
   .modal-thumb img {
     max-width: 100%;
     max-height: 100%;
+    width: auto;
+    height: auto;
     object-fit: contain;
+    display: block;
+    margin: 0 auto;
   }
   .modal-info {
     display: flex;
@@ -647,36 +655,59 @@
     color: #475569;
     margin: 4px 0 8px;
   }
+  /* Action row: Price left, WA Button right */
+  .modal-footer-action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
+    margin-top: auto;
+    padding-top: 14px;
+    border-top: 1px solid var(--border-light);
+  }
+  .modal-price-block {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    flex-shrink: 0;
+  }
+  .price-caption {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--fg-muted);
+  }
   .modal-price {
     font-size: 22px;
     font-weight: 800;
     color: var(--fg);
+    letter-spacing: -0.01em;
+    line-height: 1.15;
   }
-  .modal-cta {
-    margin-top: auto;
-    display: flex;
+  .modal-cta-btn {
+    display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 8px;
     background: var(--wa-green);
     color: #ffffff;
-    padding: 13px 22px;
+    padding: 11px 20px;
     border-radius: var(--radius-pill);
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
-    letter-spacing: -0.01em;
-    box-shadow: 0 4px 14px rgba(37, 211, 102, 0.32);
+    box-shadow: 0 3px 12px rgba(37, 211, 102, 0.32);
     transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
     text-decoration: none;
     white-space: nowrap;
-    width: 100%;
+    flex-shrink: 0;
   }
-  .modal-cta:hover {
+  .modal-cta-btn:hover {
     background: var(--wa-green-hover);
     transform: translateY(-1px);
-    box-shadow: 0 6px 20px rgba(37, 211, 102, 0.42);
+    box-shadow: 0 5px 16px rgba(37, 211, 102, 0.42);
   }
-  .modal-cta svg { width: 20px; height: 20px; fill: currentColor; flex-shrink: 0; }
+  .modal-cta-btn svg { width: 18px; height: 18px; fill: currentColor; flex-shrink: 0; }
 
   .modal-wa-hint {
     text-align: center;
@@ -888,7 +919,10 @@
       gap: 14px;
     }
     .modal-thumb {
+      width: 220px;
       height: 220px;
+      max-width: 100%;
+      margin: 0 auto;
       padding: 12px;
     }
     .modal-close {
@@ -900,8 +934,13 @@
     }
     .modal-title { font-size: 16px; }
     .modal-desc { font-size: 12.5px; line-height: 1.5; margin: 2px 0 6px; }
-    .modal-price { font-size: 20px; }
-    .modal-cta { padding: 12px 18px; font-size: 14.5px; }
+    .modal-footer-action {
+      gap: 10px;
+      padding-top: 12px;
+    }
+    .modal-price { font-size: 19px; }
+    .modal-cta-btn { padding: 9px 15px; font-size: 13px; }
+    .modal-cta-btn svg { width: 16px; height: 16px; }
   }
 
   @media (max-width: 480px) {
@@ -1017,7 +1056,7 @@
 </footer>
 
 <!-- External Dataset for fast loading & local file support -->
-<script src="assets/catalog-data.js?v=4"></script>
+<script src="assets/catalog-data.js"></script>
 
 <script>
 const WA_PHONE = '77718013434';
@@ -1331,11 +1370,16 @@ function openModal(prodId) {
       <span class="modal-cat">${prod.cat}</span>
       <p class="modal-desc">${prod.desc || 'Оригинальный продукт премиального качества из Южной Кореи.'}</p>
       ${volumesHtml}
-      <div class="modal-price" id="modalPrice">${currentPrice}</div>
-      <a class="modal-cta" id="modalWaBtn" href="${waLink}" target="_blank" rel="noopener noreferrer">
-        <svg viewBox="0 0 24 24"><path d="M21 11.5a8.5 8.5 0 0 1-12.4 7.5L3 21l2-5.6A8.5 8.5 0 1 1 21 11.5z"/></svg>
-        <span>Заказать в WhatsApp</span>
-      </a>
+      <div class="modal-footer-action">
+        <div class="modal-price-block">
+          <span class="price-caption">Стоимость</span>
+          <div class="modal-price" id="modalPrice">${currentPrice}</div>
+        </div>
+        <a class="modal-cta-btn" id="modalWaBtn" href="${waLink}" target="_blank" rel="noopener noreferrer">
+          <svg viewBox="0 0 24 24"><path d="M21 11.5a8.5 8.5 0 0 1-12.4 7.5L3 21l2-5.6A8.5 8.5 0 1 1 21 11.5z"/></svg>
+          <span>Заказать в WhatsApp</span>
+        </a>
+      </div>
       <div class="modal-wa-hint">
         WhatsApp: <a href="https://wa.me/${WA_PHONE}" target="_blank" rel="noopener noreferrer">+7 771 801 34 34</a>
       </div>

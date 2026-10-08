@@ -14,12 +14,12 @@ window.CATALOG_DATA = {
     },
     {
       "id": "cosm_02_2",
-      "name": "Dr. Althea Pure Grinding Cleansing Balm (Желтый с витамином C)",
+      "name": "Dr. Althea Pore Refining Grinding Cleansing Balm (Голубой)",
       "price": 5800,
       "price_display": "5 800 тг",
       "brand": "Dr. Althea",
       "cat": "Очищение",
-      "desc": "Очищающий щербет-бальзам с витамином C. Выравнивает тон кожи, мягко осветляет, устраняет тусклость и бережно удаляет стойкий макияж.",
+      "desc": "Очищающий щербет-бальзам для сужения пор и деликатного очищения. Растворяет макияж и загрязнения, освежает и матирует кожу.",
       "image": "assets/products/cosmetics/cosm_02_2.jpg",
       "tag": "Сияние",
       "volumes": []
