@@ -1,0 +1,3245 @@
+[
+  {
+    "id": "cosm_02_1",
+    "p": 2,
+    "box": [
+      0.05,
+      0.4,
+      0.32,
+      0.6
+    ],
+    "name": "Dr. Althea Pure Grinding Cleansing Balm (Зеленый)",
+    "price": 5800,
+    "brand": "Dr. Althea",
+    "cat": "Очищение",
+    "tag": "Хит",
+    "desc": "Очищающий щербет со спикулами и чайным деревом. Мягко растворяет макияж и загрязнения, очищает поры, успокаивает воспаления.",
+    "image": "assets/products/cosmetics/cosm_02_1.jpg"
+  },
+  {
+    "id": "cosm_02_2",
+    "p": 2,
+    "box": [
+      0.24,
+      0.18,
+      0.49,
+      0.343
+    ],
+    "name": "Dr. Althea Pure Grinding Cleansing Balm (Желтый с витамином C)",
+    "price": 5800,
+    "brand": "Dr. Althea",
+    "cat": "Очищение",
+    "tag": "Сияние",
+    "desc": "Очищающий щербет-бальзам с витамином C. Выравнивает тон кожи, мягко осветляет, устраняет тусклость и бережно удаляет стойкий макияж.",
+    "image": "assets/products/cosmetics/cosm_02_2.jpg"
+  },
+  {
+    "id": "cosm_02_3",
+    "p": 2,
+    "box": [
+      0.42,
+      0.41,
+      0.62,
+      0.626
+    ],
+    "name": "Dr. Althea Skin Relief Essence Serum",
+    "price": 5700,
+    "brand": "Dr. Althea",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Увлажнение",
+    "desc": "Успокаивающая эссенция-сыворотка для глубокого увлажнения, снятия покраснений и укрепления защитного кожного барьера.",
+    "image": "assets/products/cosmetics/cosm_02_3.jpg"
+  },
+  {
+    "id": "cosm_02_4",
+    "p": 2,
+    "box": [
+      0.64,
+      0.15,
+      0.88,
+      0.35
+    ],
+    "name": "Dr. Althea 147 Barrier Cream",
+    "price": 7600,
+    "brand": "Dr. Althea",
+    "cat": "Кремы и лосьоны",
+    "tag": "Барьерный уход",
+    "desc": "Интенсивный барьерный крем для глубокого питания, восстановления липидного слоя и защиты от сухости и шелушений.",
+    "image": "assets/products/cosmetics/cosm_02_4.jpg"
+  },
+  {
+    "id": "cosm_02_5",
+    "p": 2,
+    "box": [
+      0.75,
+      0.41,
+      1.0,
+      0.606
+    ],
+    "name": "Dr. Althea 345 Relief Cream",
+    "price": 7600,
+    "brand": "Dr. Althea",
+    "cat": "Кремы и лосьоны",
+    "tag": "Бестселлер",
+    "desc": "Легендарный успокаивающий крем с центеллой, ниацинамидом и пантенолом. Снимает воспаления, осветляет пост-акне и восстанавливает кожу.",
+    "image": "assets/products/cosmetics/cosm_02_5.jpg"
+  },
+  {
+    "id": "cosm_03_1",
+    "p": 3,
+    "box": [
+      0.05,
+      0.28,
+      0.32,
+      0.487
+    ],
+    "name": "Dr. Althea Salicylic Acid Clear Pad",
+    "price": 6700,
+    "brand": "Dr. Althea",
+    "cat": "Пэды и диски",
+    "tag": "Очищение пор",
+    "desc": "Очищающие диски с салициловой кислотой BHA. Мягко отшелушивают ороговевшие клетки, очищают черные точки и снижают воспаления.",
+    "image": "assets/products/cosmetics/cosm_03_1.jpg"
+  },
+  {
+    "id": "cosm_03_2",
+    "p": 3,
+    "box": [
+      0.32,
+      0.27,
+      0.58,
+      0.49
+    ],
+    "name": "Dr. Althea Green Relief Amino Gel Cleanser",
+    "price": 5000,
+    "brand": "Dr. Althea",
+    "cat": "Очищение",
+    "tag": "Мягкий pH",
+    "desc": "Мягкий слабокислотный аминокислотный гель для умывания. Бережно очищает без чувства сухости и стянутости кожи.",
+    "image": "assets/products/cosmetics/cosm_03_2.jpg"
+  },
+  {
+    "id": "cosm_03_3",
+    "p": 3,
+    "box": [
+      0.59,
+      0.28,
+      0.88,
+      0.49
+    ],
+    "name": "Dr. Althea Green Tea Fresh Sunscreen SPF50+",
+    "price": 5950,
+    "brand": "Dr. Althea",
+    "cat": "Защита от солнца SPF",
+    "tag": "SPF 50+",
+    "desc": "Освежающий солнцезащитный крем с экстрактом зеленого чая. Высокая защита от UVA/UVB лучей, легкая текстура без белых следов.",
+    "image": "assets/products/cosmetics/cosm_03_3.jpg"
+  },
+  {
+    "id": "cosm_03_4",
+    "p": 3,
+    "box": [
+      0.01,
+      0.67,
+      0.25,
+      0.879
+    ],
+    "name": "Dr. Althea Aqua Cream",
+    "price": 5200,
+    "brand": "Dr. Althea",
+    "cat": "Кремы и лосьоны",
+    "tag": "Увлажнение",
+    "desc": "Легкий увлажняющий аква-крем с гиалуроновой кислотой. Мгновенно освежает, наполняет кожу влагой и устраняет обезвоженность.",
+    "image": "assets/products/cosmetics/cosm_03_4.jpg"
+  },
+  {
+    "id": "cosm_03_5",
+    "p": 3,
+    "box": [
+      0.24,
+      0.67,
+      0.45,
+      0.879
+    ],
+    "name": "Dr. Althea Aqua Mist",
+    "price": 6200,
+    "brand": "Dr. Althea",
+    "cat": "Тонеры и мисты",
+    "tag": "Освежение",
+    "desc": "Увлажняющий аква-мист в спрее. Идеален для мгновенного освежения, восстановления водного баланса и увлажнения в течение дня.",
+    "image": "assets/products/cosmetics/cosm_03_5.jpg"
+  },
+  {
+    "id": "cosm_03_6",
+    "p": 3,
+    "box": [
+      0.44,
+      0.67,
+      0.68,
+      0.879
+    ],
+    "name": "Dr. Althea PDRN Rejuvenating Cream",
+    "price": 7000,
+    "brand": "Dr. Althea",
+    "cat": "Кремы и лосьоны",
+    "tag": "Лифтинг & PDRN",
+    "desc": "Омолаживающий регенерирующий крем с PDRN (полидезоксирибонуклеотидами). Стимулирует обновление клеток, повышает упругость и эластичность.",
+    "image": "assets/products/cosmetics/cosm_03_6.jpg"
+  },
+  {
+    "id": "cosm_03_7",
+    "p": 3,
+    "box": [
+      0.68,
+      0.67,
+      0.95,
+      0.879
+    ],
+    "name": "Dr. Althea Intensive Serum",
+    "price": 5600,
+    "brand": "Dr. Althea",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Анти-эйдж",
+    "desc": "Интенсивная сыворотка для регенерации кожи, разглаживания микрорельефа и здорового естественного сияния.",
+    "image": "assets/products/cosmetics/cosm_03_7.jpg"
+  },
+  {
+    "id": "cosm_04_1",
+    "p": 4,
+    "box": [
+      0.72,
+      0.16,
+      0.98,
+      0.306
+    ],
+    "name": "Dr. Althea Mild Gel Cleanser",
+    "price": 5000,
+    "brand": "Dr. Althea",
+    "cat": "Очищение",
+    "tag": "Мягкий гель",
+    "desc": "Деликатный успокаивающий гель для ежедневного умывания нормальной, сухой и чувствительной кожи.",
+    "image": "assets/products/cosmetics/cosm_04_1.jpg"
+  },
+  {
+    "id": "cosm_04_2",
+    "p": 4,
+    "box": [
+      0.32,
+      0.22,
+      0.58,
+      0.352
+    ],
+    "name": "Dr. Althea Calming Clear Pad",
+    "price": 6500,
+    "brand": "Dr. Althea",
+    "cat": "Пэды и диски",
+    "tag": "Успокоение",
+    "desc": "Успокаивающие очищающие диски для выравнивания текстуры кожи и снижения раздражений.",
+    "image": "assets/products/cosmetics/cosm_04_2.jpg"
+  },
+  {
+    "id": "cosm_04_3",
+    "p": 4,
+    "box": [
+      0.05,
+      0.45,
+      0.35,
+      0.636
+    ],
+    "name": "Dr. Althea Soothing Moisture Serum",
+    "price": 5700,
+    "brand": "Dr. Althea",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Увлажнение",
+    "desc": "Успокаивающая увлажняющая сыворотка для защиты от сухости и снятия покраснений.",
+    "image": "assets/products/cosmetics/cosm_04_3.jpg"
+  },
+  {
+    "id": "cosm_04_4",
+    "p": 4,
+    "box": [
+      0.5,
+      0.49,
+      0.78,
+      0.655
+    ],
+    "name": "Dr. Althea Amino Gentle Foam Mousse",
+    "price": 5500,
+    "brand": "Dr. Althea",
+    "cat": "Очищение",
+    "tag": "Пенка-мусс",
+    "desc": "Воздушная пенка-мусс с аминокислотами для нежного очищения пор без пересушивания кожи.",
+    "image": "assets/products/cosmetics/cosm_04_4.jpg"
+  },
+  {
+    "id": "cosm_05_1",
+    "p": 5,
+    "box": [
+      0.05,
+      0.3,
+      0.33,
+      0.523
+    ],
+    "name": "Dr. Althea Aqua Glowing Sunscreen SPF50+",
+    "price": 5900,
+    "brand": "Dr. Althea",
+    "cat": "Защита от солнца SPF",
+    "tag": "SPF 50+",
+    "desc": "Солнцезащитный крем с эффектом влажного сияния кожи (Aqua Glow). Высокий SPF50+ и глубокое увлажнение.",
+    "image": "assets/products/cosmetics/cosm_05_1.jpg"
+  },
+  {
+    "id": "cosm_05_2",
+    "p": 5,
+    "box": [
+      0.35,
+      0.3,
+      0.65,
+      0.523
+    ],
+    "name": "Dr. Althea 15% Niacinamide Purity Serum",
+    "price": 6950,
+    "brand": "Dr. Althea",
+    "cat": "Сыворотки и ампулы",
+    "tag": "15% Ниацинамид",
+    "desc": "Высококонцентрированная сыворотка с 15% ниацинамидом. Сужает поры, осветляет пигментацию и регулирует выработку себума.",
+    "image": "assets/products/cosmetics/cosm_05_2.jpg"
+  },
+  {
+    "id": "cosm_05_3",
+    "p": 5,
+    "box": [
+      0.68,
+      0.25,
+      0.95,
+      0.503
+    ],
+    "name": "Dr. Althea 345 Relief Mist",
+    "price": 4700,
+    "brand": "Dr. Althea",
+    "cat": "Тонеры и мисты",
+    "tag": "Выбор объёма",
+    "desc": "Успокаивающий мист с формулой 345 Relief для мгновенного снятия раздражения и увлажнения в течение дня.",
+    "volumes": [
+      {
+        "vol": "60 мл",
+        "p": "4 700 тг"
+      },
+      {
+        "vol": "100 мл",
+        "p": "6 200 тг"
+      }
+    ],
+    "image": "assets/products/cosmetics/cosm_05_3.jpg"
+  },
+  {
+    "id": "cosm_05_4",
+    "p": 5,
+    "box": [
+      0.05,
+      0.68,
+      0.33,
+      0.91
+    ],
+    "name": "Dr. Althea Stretchfit Calming Pad",
+    "price": 6700,
+    "brand": "Dr. Althea",
+    "cat": "Пэды и диски",
+    "tag": "Эластичные пэды",
+    "desc": "Эластичные успокаивающие диски Stretchfit. Идеально повторяют контуры лица, снимают жар и покраснения.",
+    "image": "assets/products/cosmetics/cosm_05_4.jpg"
+  },
+  {
+    "id": "cosm_05_5",
+    "p": 5,
+    "box": [
+      0.35,
+      0.68,
+      0.62,
+      0.91
+    ],
+    "name": "Dr. Althea Gentle Cleansing Oil",
+    "price": 5900,
+    "brand": "Dr. Althea",
+    "cat": "Очищение",
+    "tag": "Гидрофильное масло",
+    "desc": "Очищающее гидрофильное масло. Растворяет водостойкий макияж и сальные нити, сохраняя кожный барьер мягким и увлажненным.",
+    "image": "assets/products/cosmetics/cosm_05_5.jpg"
+  },
+  {
+    "id": "cosm_05_6",
+    "p": 5,
+    "box": [
+      0.68,
+      0.68,
+      0.95,
+      0.897
+    ],
+    "name": "Dr. Althea Vitamin C Glow Serum",
+    "price": 5800,
+    "brand": "Dr. Althea",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Витамин C",
+    "desc": "Сыворотка с витамином C для яркого ровного тона, антиоксидантной защиты и борьбы с тусклостью кожи.",
+    "image": "assets/products/cosmetics/cosm_05_6.jpg"
+  },
+  {
+    "id": "cosm_06_1",
+    "p": 6,
+    "box": [
+      0.05,
+      0.38,
+      0.35,
+      0.641
+    ],
+    "name": "Celimax Dual Barrier Mild Gel Cleanser",
+    "price": 6200,
+    "brand": "Celimax",
+    "cat": "Очищение",
+    "tag": "Для сухой кожи",
+    "desc": "Мягкий слабокислотный гель для умывания с 5 видами керамидов. Бережно очищает без повреждения липидного барьера.",
+    "image": "assets/products/cosmetics/cosm_06_1.jpg"
+  },
+  {
+    "id": "cosm_06_2",
+    "p": 6,
+    "box": [
+      0.35,
+      0.38,
+      0.65,
+      0.64
+    ],
+    "name": "Celimax Dual Barrier Skin Wearable Cream",
+    "price": 6900,
+    "brand": "Celimax",
+    "cat": "Кремы и лосьоны",
+    "tag": "Хит барьера",
+    "desc": "Восстанавливающий барьерный крем с керамидами. Глубоко питает сухую и обезвоженную кожу, устраняет шелушения и стянутость.",
+    "image": "assets/products/cosmetics/cosm_06_2.jpg"
+  },
+  {
+    "id": "cosm_06_3",
+    "p": 6,
+    "box": [
+      0.65,
+      0.38,
+      0.95,
+      0.643
+    ],
+    "name": "Celimax Dual Barrier Watery Sun Cream SPF50+",
+    "price": 5800,
+    "brand": "Celimax",
+    "cat": "Защита от солнца SPF",
+    "tag": "SPF 50+",
+    "desc": "Увлажняющий солнцезащитный крем с керамидами для чувствительной и сухой кожи. Надежная защита без липкости.",
+    "image": "assets/products/cosmetics/cosm_06_3.jpg"
+  },
+  {
+    "id": "cosm_07_1",
+    "p": 7,
+    "box": [
+      0.08,
+      0.4,
+      0.38,
+      0.674
+    ],
+    "name": "Axis-Y Sunday Morning Refreshing Cleansing Foam",
+    "price": 5200,
+    "brand": "Axis-Y",
+    "cat": "Очищение",
+    "tag": "Пенка pH 5.5",
+    "desc": "Освежающая слабокислотная пенка для умывания. Бережно очищает поры, успокаивает раздражения и предотвращает высыпания.",
+    "image": "assets/products/cosmetics/cosm_07_1.jpg"
+  },
+  {
+    "id": "cosm_07_2",
+    "p": 7,
+    "box": [
+      0.38,
+      0.4,
+      0.65,
+      0.67
+    ],
+    "name": "Axis-Y Dark Spot Correcting Glow Serum",
+    "price": 5300,
+    "brand": "Axis-Y",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Бестселлер",
+    "desc": "Знаменитая осветляющая сыворотка с 5% ниацинамидом и скваланом. Эффективно борется с пост-акне, пигментацией и выравнивает тон.",
+    "image": "assets/products/cosmetics/cosm_07_2.jpg"
+  },
+  {
+    "id": "cosm_07_3",
+    "p": 7,
+    "box": [
+      0.24,
+      0.12,
+      0.5,
+      0.299
+    ],
+    "name": "Axis-Y Biome Comforting Infused Toner Mist",
+    "price": 6000,
+    "brand": "Axis-Y",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер-мист",
+    "desc": "Успокаивающий тонер-мист с пробиотиками и центеллой. Мгновенно снимает стянутость и освежает кожу в течение дня.",
+    "image": "assets/products/cosmetics/cosm_07_3.jpg"
+  },
+  {
+    "id": "cosm_07_4",
+    "p": 7,
+    "box": [
+      0.68,
+      0.4,
+      0.95,
+      0.674
+    ],
+    "name": "Axis-Y Complete No-Stress Physical Sunscreen SPF50+",
+    "price": 6000,
+    "brand": "Axis-Y",
+    "cat": "Защита от солнца SPF",
+    "tag": "Физический SPF",
+    "desc": "Минеральный солнцезащитный крем на физических фильтрах с центеллой и ниацинамидом. Не раздражает даже самую чувствительную кожу.",
+    "image": "assets/products/cosmetics/cosm_07_4.jpg"
+  },
+  {
+    "id": "cosm_07_5",
+    "p": 7,
+    "box": [
+      0.5,
+      0.22,
+      0.78,
+      0.46
+    ],
+    "name": "Axis-Y Dark Spot Correcting Glow Cream Gel",
+    "price": 5000,
+    "brand": "Axis-Y",
+    "cat": "Кремы и лосьоны",
+    "tag": "Осветление",
+    "desc": "Осветляющий крем-гель для борьбы с пигментными пятнами и тусклым тоном лица. Легкая текстура мгновенно впитывается.",
+    "image": "assets/products/cosmetics/cosm_07_5.jpg"
+  },
+  {
+    "id": "cosm_07_6",
+    "p": 7,
+    "box": [
+      0.5,
+      0.05,
+      0.78,
+      0.22
+    ],
+    "name": "Axis-Y Vegan Collagen Eye Serum",
+    "price": 5800,
+    "brand": "Axis-Y",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Для век",
+    "desc": "Антивозрастная сыворотка для кожи вокруг глаз с веганским коллагеном. Разглаживает мелкие морщинки и уменьшает отечность.",
+    "image": "assets/products/cosmetics/cosm_07_6.jpg"
+  },
+  {
+    "id": "cosm_08_1",
+    "p": 8,
+    "box": [
+      0.05,
+      0.356,
+      0.45,
+      0.56
+    ],
+    "name": "Celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+    "price": 5300,
+    "brand": "Celimax",
+    "cat": "Очищение",
+    "tag": "Масло с жожоба",
+    "desc": "Гидрофильное масло с маслом жожоба против черных точек. Глубоко растворяет загрязнения в порах, не забивая их.",
+    "image": "assets/products/cosmetics/cosm_08_1.jpg"
+  },
+  {
+    "id": "cosm_08_2",
+    "p": 8,
+    "box": [
+      0.55,
+      0.356,
+      0.95,
+      0.56
+    ],
+    "name": "Celimax Derma Nature Relief Cleansing Foam",
+    "price": 4300,
+    "brand": "Celimax",
+    "cat": "Очищение",
+    "tag": "Пенка",
+    "desc": "Мягкая очищающая пенка для чувствительной и склонной к покраснениям кожи. Бережно удаляет загрязнения.",
+    "image": "assets/products/cosmetics/cosm_08_2.jpg"
+  },
+  {
+    "id": "cosm_08_3",
+    "p": 8,
+    "box": [
+      0.3,
+      0.58,
+      0.7,
+      0.82
+    ],
+    "name": "Celimax Derma Nature Glutathione Tone-Up Cream",
+    "price": 5250,
+    "brand": "Celimax",
+    "cat": "Кремы и лосьоны",
+    "tag": "Осветление",
+    "desc": "Крем для осветления пигментации и придания коже свежего естественного сияния без жирного блеска.",
+    "image": "assets/products/cosmetics/cosm_08_3.jpg"
+  },
+  {
+    "id": "cosm_09_1",
+    "p": 9,
+    "box": [
+      0.05,
+      0.38,
+      0.28,
+      0.7
+    ],
+    "name": "Celimax Pore+Dark Spot Brightening Serum",
+    "price": 5750,
+    "brand": "Celimax",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Сужение пор",
+    "desc": "Сыворотка для сужения пор и осветления темных пятен. Выравнивает рельеф, уменьшает видимость пор и пост-акне.",
+    "image": "assets/products/cosmetics/cosm_09_1.jpg"
+  },
+  {
+    "id": "cosm_09_2",
+    "p": 9,
+    "box": [
+      0.28,
+      0.38,
+      0.5,
+      0.7
+    ],
+    "name": "Celimax Pore+Dark Spot Brightening Pad",
+    "price": 5800,
+    "brand": "Celimax",
+    "cat": "Пэды и диски",
+    "tag": "Пэды",
+    "desc": "Диски для увлажнения и выравнивания тона. Делают кожу гладкой, чистой и сияющей.",
+    "image": "assets/products/cosmetics/cosm_09_2.jpg"
+  },
+  {
+    "id": "cosm_09_3",
+    "p": 9,
+    "box": [
+      0.5,
+      0.38,
+      0.75,
+      0.7
+    ],
+    "name": "Celimax Pore+Dark Spot Brightening Sunscreen SPF50+",
+    "price": 5400,
+    "brand": "Celimax",
+    "cat": "Защита от солнца SPF",
+    "tag": "SPF 50+",
+    "desc": "Осветляющий солнцезащитный крем. Защищает от солнца, выравнивает тон и борется с пигментацией.",
+    "image": "assets/products/cosmetics/cosm_09_3.jpg"
+  },
+  {
+    "id": "cosm_09_4",
+    "p": 9,
+    "box": [
+      0.75,
+      0.38,
+      0.98,
+      0.7
+    ],
+    "name": "Celimax Pore+Dark Spot Brightening Care Cream",
+    "price": 6100,
+    "brand": "Celimax",
+    "cat": "Кремы и лосьоны",
+    "tag": "Сияние",
+    "desc": "Осветляющий крем для выравнивания тона кожи, гладкой текстуры и здорового сияния.",
+    "image": "assets/products/cosmetics/cosm_09_4.jpg"
+  },
+  {
+    "id": "cosm_10_1",
+    "p": 10,
+    "box": [
+      0.05,
+      0.411,
+      0.35,
+      0.65
+    ],
+    "name": "Celimax The Real Noni Moisture Balancing Lotion",
+    "price": 6500,
+    "brand": "Celimax",
+    "cat": "Кремы и лосьоны",
+    "tag": "Лосьон",
+    "desc": "Увлажняющий балансирующий лосьон с экстрактом нони. Быстро успокаивает покраснения и укрепляет защитный барьер.",
+    "image": "assets/products/cosmetics/cosm_10_1.jpg"
+  },
+  {
+    "id": "cosm_10_2",
+    "p": 10,
+    "box": [
+      0.35,
+      0.35,
+      0.65,
+      0.65
+    ],
+    "name": "Celimax The Real Noni Energy Ampoule",
+    "price": 6500,
+    "brand": "Celimax",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Хит ампула",
+    "desc": "Легендарная питательная ампула с 71.77% экстракта нони. Успокаивает воспаления, стимулирует регенерацию и глубоко питает.",
+    "image": "assets/products/cosmetics/cosm_10_2.jpg"
+  },
+  {
+    "id": "cosm_10_3",
+    "p": 10,
+    "box": [
+      0.05,
+      0.65,
+      0.35,
+      0.845
+    ],
+    "name": "Celimax The Real Noni Energy Repair Cream",
+    "price": 6500,
+    "brand": "Celimax",
+    "cat": "Кремы и лосьоны",
+    "tag": "Восстановление",
+    "desc": "Восстанавливающий крем с экстрактом нони и церамидами. Ускоряет заживление, снимает стянутость и раздражения.",
+    "image": "assets/products/cosmetics/cosm_10_3.jpg"
+  },
+  {
+    "id": "cosm_10_4",
+    "p": 10,
+    "box": [
+      0.45,
+      0.15,
+      0.75,
+      0.304
+    ],
+    "name": "Celimax The Real Noni Moisture Balancing Toner",
+    "price": 6500,
+    "brand": "Celimax",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер нони",
+    "desc": "Увлажняющий тонер с экстрактом нони и аминокислотами. Восстанавливает гидробаланс сразу после умывания.",
+    "image": "assets/products/cosmetics/cosm_10_4.jpg"
+  },
+  {
+    "id": "cosm_10_5",
+    "p": 10,
+    "box": [
+      0.65,
+      0.15,
+      0.95,
+      0.304
+    ],
+    "name": "Celimax The Real Noni Energy Sheet Mask",
+    "price": 6500,
+    "brand": "Celimax",
+    "cat": "Маски",
+    "tag": "Маска",
+    "desc": "Тканевая маска, пропитанная концентрированной сывороткой нони для экспресс-восстановления и сияния кожи.",
+    "image": "assets/products/cosmetics/cosm_10_5.jpg"
+  },
+  {
+    "id": "cosm_11_1",
+    "p": 11,
+    "box": [
+      0.02,
+      0.32,
+      0.25,
+      0.65
+    ],
+    "name": "Celimax Pore+Dark Spot Sunscreen SPF50+",
+    "price": 5400,
+    "brand": "Celimax",
+    "cat": "Защита от солнца SPF",
+    "tag": "Осветление",
+    "desc": "Солнцезащитный крем, сочетающий защиту от ультрафиолета и осветление темных пятен.",
+    "image": "assets/products/cosmetics/cosm_11_1.jpg"
+  },
+  {
+    "id": "cosm_11_2",
+    "p": 11,
+    "box": [
+      0.25,
+      0.32,
+      0.5,
+      0.65
+    ],
+    "name": "Celimax Heart Pink Tone Up Sun Cream SPF50+",
+    "price": 5600,
+    "brand": "Celimax",
+    "cat": "Защита от солнца SPF",
+    "tag": "Tone Up Pink",
+    "desc": "Тонирующий санскрин с розовым подтоном: выравнивает тон лица, устраняет тусклость и замедляет процессы старения.",
+    "image": "assets/products/cosmetics/cosm_11_2.jpg"
+  },
+  {
+    "id": "cosm_11_3",
+    "p": 11,
+    "box": [
+      0.5,
+      0.32,
+      0.75,
+      0.65
+    ],
+    "name": "Celimax Oil Control Light Sunscreen SPF50+",
+    "price": 5700,
+    "brand": "Celimax",
+    "cat": "Защита от солнца SPF",
+    "tag": "Матирующий",
+    "desc": "Легкий солнцезащитный крем для комбинированной и жирной кожи. Регулирует работу сальных желез и матирует в течение дня.",
+    "image": "assets/products/cosmetics/cosm_11_3.jpg"
+  },
+  {
+    "id": "cosm_11_4",
+    "p": 11,
+    "box": [
+      0.75,
+      0.32,
+      0.98,
+      0.65
+    ],
+    "name": "Celimax Dual Barrier Watery Sun Cream SPF50+",
+    "price": 5800,
+    "brand": "Celimax",
+    "cat": "Защита от солнца SPF",
+    "tag": "Увлажнение",
+    "desc": "Интенсивно увлажняющий санскрин с керамидами. Укрепляет защитный барьер сухой и чувствительной кожи.",
+    "image": "assets/products/cosmetics/cosm_11_4.jpg"
+  },
+  {
+    "id": "cosm_12_1",
+    "p": 12,
+    "box": [
+      0.1,
+      0.35,
+      0.48,
+      0.68
+    ],
+    "name": "Celimax The Vita-A Retinol 0.1% Serum",
+    "price": 5600,
+    "brand": "Celimax",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Ретинол",
+    "desc": "Омолаживающая сыворотка с микроспикулами и ретинолом 0.1%. Уменьшает морщины, повышает упругость кожи и обновляет клетки.",
+    "image": "assets/products/cosmetics/cosm_12_1.jpg"
+  },
+  {
+    "id": "cosm_12_2",
+    "p": 12,
+    "box": [
+      0.52,
+      0.35,
+      0.9,
+      0.68
+    ],
+    "name": "Celimax The Vita-A Retinol Booster Cream",
+    "price": 5600,
+    "brand": "Celimax",
+    "cat": "Кремы и лосьоны",
+    "tag": "Бустер-крем",
+    "desc": "Бустер-крем с ретинолом и пептидным комплексом для жирной, проблемной и возрастной кожи.",
+    "image": "assets/products/cosmetics/cosm_12_2.jpg"
+  },
+  {
+    "id": "cosm_13_1",
+    "p": 13,
+    "box": [
+      0.05,
+      0.25,
+      0.48,
+      0.62
+    ],
+    "name": "Beauty of Joseon Relief Sun: Rice + Probiotics SPF50+",
+    "price": 6000,
+    "brand": "Beauty of Joseon",
+    "cat": "Защита от солнца SPF",
+    "tag": "Мировой хит",
+    "desc": "Легендарный солнцезащитный крем с экстрактом риса (30%) и пробиотиками. Интенсивно увлажняет, выравнивает тон, придает коже нежное сияние без липкости.",
+    "image": "assets/products/cosmetics/cosm_13_1.jpg"
+  },
+  {
+    "id": "cosm_13_2",
+    "p": 13,
+    "box": [
+      0.52,
+      0.25,
+      0.95,
+      0.62
+    ],
+    "name": "Beauty of Joseon Relief Sun: Aqua-fresh Rice + B5 SPF50+",
+    "price": 6000,
+    "brand": "Beauty of Joseon",
+    "cat": "Защита от солнца SPF",
+    "tag": "Новинка Aqua",
+    "desc": "Ультралегкая водянистая формула с рисом и пантенолом B5. Мгновенно впитывается без жирного блеска. Идеален для жирной и комбинированной кожи в жару.",
+    "image": "assets/products/cosmetics/cosm_13_2.jpg"
+  },
+  {
+    "id": "cosm_14_1",
+    "p": 14,
+    "box": [
+      0.05,
+      0.68,
+      0.32,
+      0.9
+    ],
+    "name": "Round Lab Pine Calming Cica Cleanser",
+    "price": 4950,
+    "brand": "Round Lab",
+    "cat": "Очищение",
+    "tag": "Пенка с сосной",
+    "desc": "Успокаивающая пенка с экстрактом сосны и центеллы. Очищает поры, успокаивает воспаления и заживляет повреждения.",
+    "image": "assets/products/cosmetics/cosm_14_1.jpg"
+  },
+  {
+    "id": "cosm_14_2",
+    "p": 14,
+    "box": [
+      0.05,
+      0.25,
+      0.32,
+      0.48
+    ],
+    "name": "Round Lab Pine Calming Cica Toner",
+    "price": 6100,
+    "brand": "Round Lab",
+    "cat": "Тонеры и мисты",
+    "tag": "Тоник",
+    "desc": "Тоник против высыпаний с экстрактом сосны, LHA и PHA кислотами. Мягко отшелушивает и очищает поры.",
+    "image": "assets/products/cosmetics/cosm_14_2.jpg"
+  },
+  {
+    "id": "cosm_14_3",
+    "p": 14,
+    "box": [
+      0.35,
+      0.25,
+      0.65,
+      0.48
+    ],
+    "name": "Round Lab Pine Calming Cica Peeling Pad",
+    "price": 7200,
+    "brand": "Round Lab",
+    "cat": "Пэды и диски",
+    "tag": "Пилинг-пэды",
+    "desc": "Пилинг-диски с кислотами и экстрактом хвои. Уменьшают воспаления, черные точки и освежают текстуру.",
+    "image": "assets/products/cosmetics/cosm_14_3.jpg"
+  },
+  {
+    "id": "cosm_14_4",
+    "p": 14,
+    "box": [
+      0.68,
+      0.296,
+      0.95,
+      0.48
+    ],
+    "name": "Round Lab Pine Calming Cica Lotion",
+    "price": 6600,
+    "brand": "Round Lab",
+    "cat": "Кремы и лосьоны",
+    "tag": "Лосьон",
+    "desc": "Легкий успокаивающий лосьон с центеллой и сосной для увлажнения проблемной и чувствительной кожи.",
+    "image": "assets/products/cosmetics/cosm_14_4.jpg"
+  },
+  {
+    "id": "cosm_14_5",
+    "p": 14,
+    "box": [
+      0.35,
+      0.68,
+      0.65,
+      0.9
+    ],
+    "name": "Round Lab Pine Calming Cica Ampoule",
+    "price": 7100,
+    "brand": "Round Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Ампула",
+    "desc": "Успокаивающая ампула с высокой концентрацией экстракта сосны для быстрого снятия покраснений и акне.",
+    "image": "assets/products/cosmetics/cosm_14_5.jpg"
+  },
+  {
+    "id": "cosm_14_6",
+    "p": 14,
+    "box": [
+      0.68,
+      0.68,
+      0.95,
+      0.9
+    ],
+    "name": "Round Lab Pine Calming Cica Cream",
+    "price": 6700,
+    "brand": "Round Lab",
+    "cat": "Кремы и лосьоны",
+    "tag": "Крем",
+    "desc": "Восстанавливающий гель-крем с сосной и центеллой для заживления следов пост-акне и барьера кожи.",
+    "image": "assets/products/cosmetics/cosm_14_6.jpg"
+  },
+  {
+    "id": "cosm_15_1",
+    "p": 15,
+    "box": [
+      0.05,
+      0.68,
+      0.32,
+      0.9
+    ],
+    "name": "Round Lab Birch Juice Moisturizing Cleanser",
+    "price": 5100,
+    "brand": "Round Lab",
+    "cat": "Очищение",
+    "tag": "Гель",
+    "desc": "Увлажняющий гель для умывания с березовым соком и ромашкой. Мягко очищает, сохраняя естественную влагу кожи.",
+    "image": "assets/products/cosmetics/cosm_15_1.jpg"
+  },
+  {
+    "id": "cosm_15_2",
+    "p": 15,
+    "box": [
+      0.05,
+      0.22,
+      0.32,
+      0.45
+    ],
+    "name": "Round Lab Birch Juice Moisturizing Toner",
+    "price": 6200,
+    "brand": "Round Lab",
+    "cat": "Тонеры и мисты",
+    "tag": "Увлажнение",
+    "desc": "Увлажняющий тоник с березовым соком, пантенолом и гиалуроновой кислотой. Мгновенно утоляет жажду кожи.",
+    "image": "assets/products/cosmetics/cosm_15_2.jpg"
+  },
+  {
+    "id": "cosm_15_3",
+    "p": 15,
+    "box": [
+      0.35,
+      0.272,
+      0.65,
+      0.45
+    ],
+    "name": "Round Lab Birch Juice Moisturizing Pad",
+    "price": 7200,
+    "brand": "Round Lab",
+    "cat": "Пэды и диски",
+    "tag": "Пэды",
+    "desc": "Успокаивающие увлажняющие диски с березовым соком и аллантоином для быстрого компресса и тонизирования.",
+    "image": "assets/products/cosmetics/cosm_15_3.jpg"
+  },
+  {
+    "id": "cosm_15_4",
+    "p": 15,
+    "box": [
+      0.68,
+      0.22,
+      0.95,
+      0.45
+    ],
+    "name": "Round Lab Birch Juice Moisturizing Sun Stick SPF50+",
+    "price": 6600,
+    "brand": "Round Lab",
+    "cat": "Защита от солнца SPF",
+    "tag": "SPF Стик",
+    "desc": "Освежающий солнцезащитный стик с березовым соком и пептидами. Удобно обновлять защиту прямо на ходу.",
+    "image": "assets/products/cosmetics/cosm_15_4.jpg"
+  },
+  {
+    "id": "cosm_15_5",
+    "p": 15,
+    "box": [
+      0.35,
+      0.68,
+      0.65,
+      0.84
+    ],
+    "name": "Round Lab Birch Juice Moisturizing Sunscreen SPF50+",
+    "price": 6000,
+    "brand": "Round Lab",
+    "cat": "Защита от солнца SPF",
+    "tag": "Топ SPF Кореи",
+    "desc": "Самый продаваемый санскрин в Южной Корее! Глубоко увлажняет, неощутим на коже, не оставляет белых следов.",
+    "image": "assets/products/cosmetics/cosm_15_5.jpg"
+  },
+  {
+    "id": "cosm_15_6",
+    "p": 15,
+    "box": [
+      0.68,
+      0.68,
+      0.95,
+      0.9
+    ],
+    "name": "Round Lab Birch Juice Moisturizing Serum",
+    "price": 6400,
+    "brand": "Round Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Сыворотка",
+    "desc": "Увлажняющая сыворотка с березовым соком и гиалуроновой кислотой для восстановления сухости и обезвоженности.",
+    "image": "assets/products/cosmetics/cosm_15_6.jpg"
+  },
+  {
+    "id": "cosm_16_1",
+    "p": 16,
+    "box": [
+      0.05,
+      0.382,
+      0.45,
+      0.62
+    ],
+    "name": "Round Lab 1025 Dokdo Cleanser",
+    "price": 5100,
+    "brand": "Round Lab",
+    "cat": "Очищение",
+    "tag": "Пенка No.1",
+    "desc": "Легендарная нежная пенка для умывания с морской водой острова Уллындо. Удаляет микропыль и макияж без стянутости.",
+    "image": "assets/products/cosmetics/cosm_16_1.jpg"
+  },
+  {
+    "id": "cosm_16_2",
+    "p": 16,
+    "box": [
+      0.5,
+      0.35,
+      0.95,
+      0.62
+    ],
+    "name": "Round Lab 1025 Dokdo Toner",
+    "price": 5500,
+    "brand": "Round Lab",
+    "cat": "Тонеры и мисты",
+    "tag": "Бестселлер",
+    "desc": "Культовый тонер для деликатного отшелушивания и глубокого увлажнения. Содержит 72 минерала морской воды.",
+    "image": "assets/products/cosmetics/cosm_16_2.jpg"
+  },
+  {
+    "id": "cosm_16_3",
+    "p": 16,
+    "box": [
+      0.15,
+      0.761,
+      0.5,
+      0.92
+    ],
+    "name": "Round Lab 1025 Dokdo Hydrating Serum",
+    "price": 8300,
+    "brand": "Round Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Сыворотка",
+    "desc": "Глубоко увлажняющая сыворотка с морской водой и комплексом гиалуроновой кислоты для восстановления упругости.",
+    "image": "assets/products/cosmetics/cosm_16_3.jpg"
+  },
+  {
+    "id": "cosm_16_4",
+    "p": 16,
+    "box": [
+      0.55,
+      0.771,
+      0.9,
+      0.92
+    ],
+    "name": "Round Lab 1025 Dokdo Cleansing Oil",
+    "price": 7500,
+    "brand": "Round Lab",
+    "cat": "Очищение",
+    "tag": "Масло",
+    "desc": "Очищающее гидрофильное масло с натуральными маслами. Эффективно растворяет стойкий макияж и черные точки.",
+    "image": "assets/products/cosmetics/cosm_16_4.jpg"
+  },
+  {
+    "id": "cosm_17_1",
+    "p": 17,
+    "box": [
+      0.05,
+      0.35,
+      0.45,
+      0.65
+    ],
+    "name": "Round Lab Vita Niacinamide Cream",
+    "price": 6300,
+    "brand": "Round Lab",
+    "cat": "Кремы и лосьоны",
+    "tag": "Крем",
+    "desc": "Крем для лица с витаминным комплексом и ниацинамидом. Выравнивает тон кожи, устраняет тусклость и придает сияние.",
+    "image": "assets/products/cosmetics/cosm_17_1.jpg"
+  },
+  {
+    "id": "cosm_17_2",
+    "p": 17,
+    "box": [
+      0.35,
+      0.65,
+      0.65,
+      0.92
+    ],
+    "name": "Round Lab Vita Niacinamide Serum",
+    "price": 7000,
+    "brand": "Round Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Сыворотка",
+    "desc": "Осветляющая сыворотка с ниацинамидом и глутатионом для эффективной борьбы с гиперпигментацией.",
+    "image": "assets/products/cosmetics/cosm_17_2.jpg"
+  },
+  {
+    "id": "cosm_17_3",
+    "p": 17,
+    "box": [
+      0.45,
+      0.35,
+      0.75,
+      0.65
+    ],
+    "name": "Round Lab Vita Niacinamide Sheet Mask",
+    "price": 6100,
+    "brand": "Round Lab",
+    "cat": "Маски",
+    "tag": "Маска",
+    "desc": "Тканевая маска для мгновенного осветления, стирания следов усталости и придания отдохнувшего сияющего вида.",
+    "image": "assets/products/cosmetics/cosm_17_3.jpg"
+  },
+  {
+    "id": "cosm_17_4",
+    "p": 17,
+    "box": [
+      0.65,
+      0.65,
+      0.95,
+      0.92
+    ],
+    "name": "Round Lab Vita Niacinamide Glow Capsule Cream",
+    "price": 6650,
+    "brand": "Round Lab",
+    "cat": "Кремы и лосьоны",
+    "tag": "Капсулы",
+    "desc": "Капсульный крем с сияющими витаминными микросферами для интенсивного питания и сияния кожи.",
+    "image": "assets/products/cosmetics/cosm_17_4.jpg"
+  },
+  {
+    "id": "cosm_18_1",
+    "p": 18,
+    "box": [
+      0.05,
+      0.351,
+      0.45,
+      0.5
+    ],
+    "name": "Round Lab Camellia Deep Collagen Sheet Mask",
+    "price": 5500,
+    "brand": "Round Lab",
+    "cat": "Маски",
+    "tag": "Коллаген",
+    "desc": "Тканевая маска с экстрактом камелии и низкомолекулярным коллагеном для упругости и разглаживания морщинок.",
+    "image": "assets/products/cosmetics/cosm_18_1.jpg"
+  },
+  {
+    "id": "cosm_18_2",
+    "p": 18,
+    "box": [
+      0.55,
+      0.364,
+      0.95,
+      0.5
+    ],
+    "name": "Round Lab Camellia Deep Collagen Sunscreen SPF50+",
+    "price": 6400,
+    "brand": "Round Lab",
+    "cat": "Защита от солнца SPF",
+    "tag": "SPF 50+",
+    "desc": "Омолаживающий солнцезащитный крем с коллагеном и камелией для защиты от фотостарения и потери упругости.",
+    "image": "assets/products/cosmetics/cosm_18_2.jpg"
+  },
+  {
+    "id": "cosm_18_3",
+    "p": 18,
+    "box": [
+      0.55,
+      0.65,
+      0.95,
+      0.84
+    ],
+    "name": "Round Lab Camellia Deep Collagen Toner",
+    "price": 6400,
+    "brand": "Round Lab",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер",
+    "desc": "Укрепляющий тонер с камелией и коллагеном для восстановления эластичности и тонуса кожи.",
+    "image": "assets/products/cosmetics/cosm_18_3.jpg"
+  },
+  {
+    "id": "cosm_18_4",
+    "p": 18,
+    "box": [
+      0.05,
+      0.65,
+      0.45,
+      0.848
+    ],
+    "name": "Round Lab Camellia Deep Collagen Serum",
+    "price": 6950,
+    "brand": "Round Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Сыворотка",
+    "desc": "Коллагеновая лифтинг-сыворотка для повышения плотности кожи и замедления возрастных изменений.",
+    "image": "assets/products/cosmetics/cosm_18_4.jpg"
+  },
+  {
+    "id": "cosm_19_1",
+    "p": 19,
+    "box": [
+      0.05,
+      0.2,
+      0.35,
+      0.403
+    ],
+    "name": "Round Lab Soybean Cleansing Oil",
+    "price": 6600,
+    "brand": "Round Lab",
+    "cat": "Очищение",
+    "tag": "Масло сои",
+    "desc": "Питательное гидрофильное масло с черной соей. Мягко растворяет загрязнения и питает сухую кожу.",
+    "image": "assets/products/cosmetics/cosm_19_1.jpg"
+  },
+  {
+    "id": "cosm_19_2",
+    "p": 19,
+    "box": [
+      0.35,
+      0.2,
+      0.65,
+      0.403
+    ],
+    "name": "Round Lab Soybean Scrub Cleansing Foam",
+    "price": 5100,
+    "brand": "Round Lab",
+    "cat": "Очищение",
+    "tag": "Пенка-скраб",
+    "desc": "Нежная пенка-скраб с частицами сои для мягкого отшелушивания и бархатистой гладкости.",
+    "image": "assets/products/cosmetics/cosm_19_2.jpg"
+  },
+  {
+    "id": "cosm_19_3",
+    "p": 19,
+    "box": [
+      0.65,
+      0.2,
+      0.95,
+      0.45
+    ],
+    "name": "Round Lab Soybean Nourishing Toner",
+    "price": 6900,
+    "brand": "Round Lab",
+    "cat": "Тонеры и мисты",
+    "tag": "Питательный тоник",
+    "desc": "Густой питательный тоник с черной соей и керамидами для восстановления сухой и увядающей кожи.",
+    "image": "assets/products/cosmetics/cosm_19_3.jpg"
+  },
+  {
+    "id": "cosm_19_4",
+    "p": 19,
+    "box": [
+      0.15,
+      0.625,
+      0.5,
+      0.85
+    ],
+    "name": "Round Lab Soybean Nourishing Serum",
+    "price": 7600,
+    "brand": "Round Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Питание",
+    "desc": "Питательная восстанавливающая сыворотка с черной соей и пептидами для глубокого ухода.",
+    "image": "assets/products/cosmetics/cosm_19_4.jpg"
+  },
+  {
+    "id": "cosm_19_5",
+    "p": 19,
+    "box": [
+      0.5,
+      0.676,
+      0.85,
+      0.85
+    ],
+    "name": "Round Lab Soybean Nourishing Cream",
+    "price": 6200,
+    "brand": "Round Lab",
+    "cat": "Кремы и лосьоны",
+    "tag": "Крем",
+    "desc": "Крем с черной соей и аденозином для укрепления барьера, снятия раздражений и гладкости кожи.",
+    "image": "assets/products/cosmetics/cosm_19_5.jpg"
+  },
+  {
+    "id": "cosm_20_1",
+    "p": 20,
+    "box": [
+      0.1,
+      0.29,
+      0.5,
+      0.55
+    ],
+    "name": "Round Lab Soybean Panthenol Barrier Toner",
+    "price": 6600,
+    "brand": "Round Lab",
+    "cat": "Тонеры и мисты",
+    "tag": "Барьерный тонер",
+    "desc": "Барьерный тонер с пантенолом и липосомами. Быстро успокаивает раздражения и укрепляет липидный слой.",
+    "image": "assets/products/cosmetics/cosm_20_1.jpg"
+  },
+  {
+    "id": "cosm_20_2",
+    "p": 20,
+    "box": [
+      0.55,
+      0.36,
+      0.95,
+      0.55
+    ],
+    "name": "Round Lab Soybean Panthenol Sheet Mask",
+    "price": 7100,
+    "brand": "Round Lab",
+    "cat": "Маски",
+    "tag": "Маска",
+    "desc": "Успокаивающая тканевая маска с пантенолом, аллантоином и соей для поврежденной кожи.",
+    "image": "assets/products/cosmetics/cosm_20_2.jpg"
+  },
+  {
+    "id": "cosm_20_3",
+    "p": 20,
+    "box": [
+      0.1,
+      0.65,
+      0.5,
+      0.883
+    ],
+    "name": "Round Lab Soybean Panthenol Barrier Cream",
+    "price": 6600,
+    "brand": "Round Lab",
+    "cat": "Кремы и лосьоны",
+    "tag": "Крем",
+    "desc": "Плотный барьерный крем с церамидами и пантенолом для защиты от обезвоживания и перепадов температур.",
+    "image": "assets/products/cosmetics/cosm_20_3.jpg"
+  },
+  {
+    "id": "cosm_20_4",
+    "p": 20,
+    "box": [
+      0.55,
+      0.65,
+      0.95,
+      0.9
+    ],
+    "name": "Round Lab Soybean Panthenol Barrier Ampoule",
+    "price": 6600,
+    "brand": "Round Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Ампула",
+    "desc": "Концентрированная барьерная ампула с экстрактом вяза Давида и гиалуронатом натрия.",
+    "image": "assets/products/cosmetics/cosm_20_4.jpg"
+  },
+  {
+    "id": "cosm_21_1",
+    "p": 21,
+    "box": [
+      0.05,
+      0.279,
+      0.45,
+      0.5
+    ],
+    "name": "Shiseido Fino Premium Touch Conditioner",
+    "price": 5800,
+    "brand": "Shiseido Fino",
+    "cat": "Уход за волосами",
+    "tag": "Япония",
+    "desc": "Премиальный японский кондиционер с маточным молочком и скваланом. Делает волосы шелковистыми и послушными.",
+    "image": "assets/products/cosmetics/cosm_21_1.jpg"
+  },
+  {
+    "id": "cosm_21_2",
+    "p": 21,
+    "box": [
+      0.55,
+      0.2,
+      0.95,
+      0.5
+    ],
+    "name": "Shiseido Fino Premium Touch Shampoo",
+    "price": 5800,
+    "brand": "Shiseido Fino",
+    "cat": "Уход за волосами",
+    "tag": "Шампунь",
+    "desc": "Восстанавливающий шампунь для поврежденных, сухих и окрашенных волос. Глубоко питает и возвращает блеск.",
+    "image": "assets/products/cosmetics/cosm_21_2.jpg"
+  },
+  {
+    "id": "cosm_21_3",
+    "p": 21,
+    "box": [
+      0.05,
+      0.693,
+      0.45,
+      0.9
+    ],
+    "name": "Shiseido Fino Premium Touch Hair Oil",
+    "price": 6200,
+    "brand": "Shiseido Fino",
+    "cat": "Уход за волосами",
+    "tag": "Масло",
+    "desc": "Концентрированное несмываемое масло для кончиков волос. Защищает от термоповреждений и секущихся концов.",
+    "image": "assets/products/cosmetics/cosm_21_3.jpg"
+  },
+  {
+    "id": "cosm_21_4",
+    "p": 21,
+    "box": [
+      0.55,
+      0.6,
+      0.95,
+      0.9
+    ],
+    "name": "Shiseido Fino Premium Touch Hair Mask",
+    "price": 5700,
+    "brand": "Shiseido Fino",
+    "cat": "Уход за волосами",
+    "tag": "Хит продаж",
+    "desc": "Знаменитая маска No.1 в Японии! Интенсивно восстанавливает структуру волос, придавая зеркальный глянец.",
+    "image": "assets/products/cosmetics/cosm_21_4.jpg"
+  },
+  {
+    "id": "cosm_22_1",
+    "p": 22,
+    "box": [
+      0.05,
+      0.55,
+      0.45,
+      0.85
+    ],
+    "name": "Medicube Deep Vita C Cleansing Foam",
+    "price": 7700,
+    "brand": "Medicube",
+    "cat": "Очищение",
+    "tag": "Умывашка",
+    "desc": "Осветляющая пенка с витамином C для глубокого очищения пор и придания коже свежести.",
+    "image": "assets/products/cosmetics/cosm_22_1.jpg"
+  },
+  {
+    "id": "cosm_22_2",
+    "p": 22,
+    "box": [
+      0.25,
+      0.25,
+      0.65,
+      0.55
+    ],
+    "name": "Medicube Deep Vita C Ampoule 15%",
+    "price": 8200,
+    "brand": "Medicube",
+    "cat": "Сыворотки и ампулы",
+    "tag": "15% Витамин C",
+    "desc": "Мощная сыворотка с 15% чистым витамином C и ниацинамидом. Стирает пигментные пятна и следы постакне.",
+    "image": "assets/products/cosmetics/cosm_22_2.jpg"
+  },
+  {
+    "id": "cosm_22_3",
+    "p": 22,
+    "box": [
+      0.55,
+      0.55,
+      0.95,
+      0.85
+    ],
+    "name": "Medicube Deep Vita C Toner",
+    "price": 7900,
+    "brand": "Medicube",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер",
+    "desc": "Осветляющий тонер с витаминами для улучшения микрорельефа и сияния кожи.",
+    "image": "assets/products/cosmetics/cosm_22_3.jpg"
+  },
+  {
+    "id": "cosm_22_4",
+    "p": 22,
+    "box": [
+      0.65,
+      0.25,
+      0.98,
+      0.55
+    ],
+    "name": "Medicube Deep Vita C Cream",
+    "price": 10300,
+    "brand": "Medicube",
+    "cat": "Кремы и лосьоны",
+    "tag": "Премиум крем",
+    "desc": "Осветляющий крем для лица с ниацинамидом и витамином C для упругой и подтянутой кожи.",
+    "image": "assets/products/cosmetics/cosm_22_4.jpg"
+  },
+  {
+    "id": "cosm_23_1",
+    "p": 23,
+    "box": [
+      0.05,
+      0.65,
+      0.4,
+      0.815
+    ],
+    "name": "Medicube Pink Cica Gel Mask (4 шт)",
+    "price": 7300,
+    "brand": "Medicube",
+    "cat": "Маски",
+    "tag": "Гелевая маска",
+    "desc": "Охлаждающая гелевая маска с розовой центеллой для мгновенного сужения пор и снятия воспалений.",
+    "image": "assets/products/cosmetics/cosm_23_1.jpg"
+  },
+  {
+    "id": "cosm_23_2",
+    "p": 23,
+    "box": [
+      0.25,
+      0.35,
+      0.55,
+      0.65
+    ],
+    "name": "Medicube Pink Cica Soothing Toner",
+    "price": 7900,
+    "brand": "Medicube",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер",
+    "desc": "Успокаивающий тонер с розовой центеллой для контроля выработки кожного себума и ровного тона.",
+    "image": "assets/products/cosmetics/cosm_23_2.jpg"
+  },
+  {
+    "id": "cosm_23_3",
+    "p": 23,
+    "box": [
+      0.35,
+      0.65,
+      0.65,
+      0.854
+    ],
+    "name": "Medicube Pink Cica Cleansing Foam",
+    "price": 6900,
+    "brand": "Medicube",
+    "cat": "Очищение",
+    "tag": "Пенка",
+    "desc": "Нежная пенка для деликатного очищения пор с успокаивающим комплексом розовой центеллы.",
+    "image": "assets/products/cosmetics/cosm_23_3.jpg"
+  },
+  {
+    "id": "cosm_23_4",
+    "p": 23,
+    "box": [
+      0.5,
+      0.5,
+      0.8,
+      0.8
+    ],
+    "name": "Medicube Pink Cica Capsule Cream",
+    "price": 9200,
+    "brand": "Medicube",
+    "cat": "Кремы и лосьоны",
+    "tag": "Капсулы",
+    "desc": "Капсульный крем для сужения пор и укрепления защитного барьера проблемной кожи.",
+    "image": "assets/products/cosmetics/cosm_23_4.jpg"
+  },
+  {
+    "id": "cosm_23_5",
+    "p": 23,
+    "box": [
+      0.65,
+      0.65,
+      0.95,
+      0.854
+    ],
+    "name": "Medicube Pink Cica Pore Serum",
+    "price": 7800,
+    "brand": "Medicube",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Сужение пор",
+    "desc": "Сыворотка для сужения расширенных пор и выравнивания текстуры кожи.",
+    "image": "assets/products/cosmetics/cosm_23_5.jpg"
+  },
+  {
+    "id": "cosm_24_1",
+    "p": 24,
+    "box": [
+      0.65,
+      0.2,
+      0.95,
+      0.45
+    ],
+    "name": "Medicube Red Toner",
+    "price": 5900,
+    "brand": "Medicube",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер",
+    "desc": "Лечебный тонер для проблемной кожи против акне, комедонов и жирного блеска.",
+    "image": "assets/products/cosmetics/cosm_24_1.jpg"
+  },
+  {
+    "id": "cosm_24_2",
+    "p": 24,
+    "box": [
+      0.3,
+      0.2,
+      0.6,
+      0.45
+    ],
+    "name": "Medicube Red Serum",
+    "price": 7400,
+    "brand": "Medicube",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Анти-акне",
+    "desc": "Сыворотка против воспалений и высыпаний. Нормализует микробиом и снижает выработку себума.",
+    "image": "assets/products/cosmetics/cosm_24_2.jpg"
+  },
+  {
+    "id": "cosm_24_3",
+    "p": 24,
+    "box": [
+      0.05,
+      0.55,
+      0.45,
+      0.85
+    ],
+    "name": "Medicube Red Cleansing Oil",
+    "price": 7400,
+    "brand": "Medicube",
+    "cat": "Очищение",
+    "tag": "Масло",
+    "desc": "Некомедогенное гидрофильное масло для глубокого очищения пор без раздражения.",
+    "image": "assets/products/cosmetics/cosm_24_3.jpg"
+  },
+  {
+    "id": "cosm_24_4",
+    "p": 24,
+    "box": [
+      0.55,
+      0.55,
+      0.95,
+      0.85
+    ],
+    "name": "Medicube Red Cream",
+    "price": 8800,
+    "brand": "Medicube",
+    "cat": "Кремы и лосьоны",
+    "tag": "Крем",
+    "desc": "Восстанавливающий крем для проблемной кожи: заживляет повреждения, увлажняет и матирует.",
+    "image": "assets/products/cosmetics/cosm_24_4.jpg"
+  },
+  {
+    "id": "cosm_25_1",
+    "p": 25,
+    "box": [
+      0.1,
+      0.55,
+      0.45,
+      0.763
+    ],
+    "name": "Medicube Collagen Exosome Ampoule",
+    "price": 8500,
+    "brand": "Medicube",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Экзосомы",
+    "desc": "Инновационная ампула с экзосомами и коллагеном для глубокой регенерации и упругости кожи.",
+    "image": "assets/products/cosmetics/cosm_25_1.jpg"
+  },
+  {
+    "id": "cosm_25_2",
+    "p": 25,
+    "box": [
+      0.35,
+      0.55,
+      0.68,
+      0.85
+    ],
+    "name": "Medicube Collagen Jelly Cream",
+    "price": 6600,
+    "brand": "Medicube",
+    "cat": "Кремы и лосьоны",
+    "tag": "Желейный крем",
+    "desc": "Вирусный желейный коллагеновый крем для эффекта 'стеклянной кожи' (glass skin). Глубоко питает и подтягивает.",
+    "volumes": [
+      {
+        "vol": "50 мл",
+        "p": "6 600 тг"
+      },
+      {
+        "vol": "110 мл",
+        "p": "9 200 тг"
+      }
+    ],
+    "image": "assets/products/cosmetics/cosm_25_2.jpg"
+  },
+  {
+    "id": "cosm_25_3",
+    "p": 25,
+    "box": [
+      0.68,
+      0.45,
+      0.98,
+      0.763
+    ],
+    "name": "Medicube Collagen Night Wrap Mask",
+    "price": 8700,
+    "brand": "Medicube",
+    "cat": "Маски",
+    "tag": "Ночная маска",
+    "desc": "Пленочная ночная коллагеновая маска-обертывание. Запирает влагу на всю ночь и подтягивает овал лица.",
+    "image": "assets/products/cosmetics/cosm_25_3.jpg"
+  },
+  {
+    "id": "cosm_26_1",
+    "p": 26,
+    "box": [
+      0.05,
+      0.386,
+      0.35,
+      0.55
+    ],
+    "name": "Medi-Peel Peptide 9 Volume Bio Tox Ampoule",
+    "price": 6400,
+    "brand": "Medi-Peel",
+    "cat": "Сыворотки и ампулы",
+    "tag": "9 пептидов",
+    "desc": "Антивозрастная ампульная сыворотка с 9 пептидами и волюфилином для эффекта заполнения морщин.",
+    "image": "assets/products/cosmetics/cosm_26_1.jpg"
+  },
+  {
+    "id": "cosm_26_2",
+    "p": 26,
+    "box": [
+      0.25,
+      0.55,
+      0.58,
+      0.85
+    ],
+    "name": "Medi-Peel Peptide 9 Volume Bio Tox Toner",
+    "price": 6600,
+    "brand": "Medi-Peel",
+    "cat": "Тонеры и мисты",
+    "tag": "Пептидный тонер",
+    "desc": "Кислородный пептидный тонер для упругости, тонуса и глубокого увлажнения зрелой кожи.",
+    "image": "assets/products/cosmetics/cosm_26_2.jpg"
+  },
+  {
+    "id": "cosm_26_3",
+    "p": 26,
+    "box": [
+      0.5,
+      0.457,
+      0.85,
+      0.65
+    ],
+    "name": "Medi-Peel Peptide 9 Volume Tox Cream",
+    "price": 5800,
+    "brand": "Medi-Peel",
+    "cat": "Кремы и лосьоны",
+    "tag": "Волюфилин",
+    "desc": "Крем с 9 пептидами и волюфилином. Восстанавливает плотность, подтягивает контуры и разглаживает кожу.",
+    "image": "assets/products/cosmetics/cosm_26_3.jpg"
+  },
+  {
+    "id": "cosm_26_4",
+    "p": 26,
+    "box": [
+      0.65,
+      0.55,
+      0.98,
+      0.85
+    ],
+    "name": "Medi-Peel Peptide 9 Eye Cream",
+    "price": 5850,
+    "brand": "Medi-Peel",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Для век",
+    "desc": "Лифтинг-крем для век с 9 пептидами. Уменьшает глубину морщин 'гусиных лапок' и отечность.",
+    "image": "assets/products/cosmetics/cosm_26_4.jpg"
+  },
+  {
+    "id": "cosm_27_1",
+    "p": 27,
+    "box": [
+      0.25,
+      0.374,
+      0.55,
+      0.55
+    ],
+    "name": "Medi-Peel Cell Toxing Dermajours Toner",
+    "price": 7500,
+    "brand": "Medi-Peel",
+    "cat": "Тонеры и мисты",
+    "tag": "Стволовые клетки",
+    "desc": "Омолаживающий тонер со стволовыми клетками растений для интенсивной регенерации и лифтинга.",
+    "image": "assets/products/cosmetics/cosm_27_1.jpg"
+  },
+  {
+    "id": "cosm_27_2",
+    "p": 27,
+    "box": [
+      0.5,
+      0.374,
+      0.8,
+      0.6
+    ],
+    "name": "Medi-Peel Cell Toxing Dermajours Ampoule",
+    "price": 7500,
+    "brand": "Medi-Peel",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Ампула лифтинг",
+    "desc": "Концентрированная лифтинг-ампула для борьбы с возрастными изменениями и потерей эластичности.",
+    "image": "assets/products/cosmetics/cosm_27_2.jpg"
+  },
+  {
+    "id": "cosm_27_3",
+    "p": 27,
+    "box": [
+      0.05,
+      0.729,
+      0.4,
+      0.85
+    ],
+    "name": "Medi-Peel Cell Toxing Dermajours Cream",
+    "price": 7500,
+    "brand": "Medi-Peel",
+    "cat": "Кремы и лосьоны",
+    "tag": "Премиум уход",
+    "desc": "Антивозрастной крем со стволовыми клетками эдельвейса. Восстанавливает упругость и гладкость.",
+    "image": "assets/products/cosmetics/cosm_27_3.jpg"
+  },
+  {
+    "id": "cosm_27_4",
+    "p": 27,
+    "box": [
+      0.35,
+      0.6,
+      0.68,
+      0.85
+    ],
+    "name": "Medi-Peel Cell Toxing Eye Cream",
+    "price": 5300,
+    "brand": "Medi-Peel",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Для век",
+    "desc": "Лифтинг-крем для зоны вокруг глаз. Питает нежную кожу, уменьшает темные круги и морщинки.",
+    "image": "assets/products/cosmetics/cosm_27_4.jpg"
+  },
+  {
+    "id": "cosm_27_5",
+    "p": 27,
+    "box": [
+      0.65,
+      0.729,
+      0.98,
+      0.85
+    ],
+    "name": "Medi-Peel Peptide 9 Lif-Tox Cream",
+    "price": 7500,
+    "brand": "Medi-Peel",
+    "cat": "Кремы и лосьоны",
+    "tag": "Лифтинг",
+    "desc": "Пептидный лифтинг-крем против птоза и дряблости кожи с видимым эффектом подтяжки.",
+    "image": "assets/products/cosmetics/cosm_27_5.jpg"
+  },
+  {
+    "id": "cosm_28_1",
+    "p": 28,
+    "box": [
+      0.05,
+      0.436,
+      0.4,
+      0.6
+    ],
+    "name": "Pyunkang Yul Mist Toner",
+    "price": 9500,
+    "brand": "Pyunkang Yul",
+    "cat": "Тонеры и мисты",
+    "tag": "Мист",
+    "desc": "Гипоаллергенный освежающий тонер-мист с корнем коптиса японского для мгновенного снятия жара и сухости.",
+    "image": "assets/products/cosmetics/cosm_28_1.jpg"
+  },
+  {
+    "id": "cosm_28_2",
+    "p": 28,
+    "box": [
+      0.38,
+      0.436,
+      0.7,
+      0.65
+    ],
+    "name": "Pyunkang Yul Calming Pure Facial Cream",
+    "price": 10300,
+    "brand": "Pyunkang Yul",
+    "cat": "Кремы и лосьоны",
+    "tag": "Крем",
+    "desc": "Успокаивающий крем для реактивной, чувствительной кожи. Укрепляет барьер и глубоко увлажняет.",
+    "image": "assets/products/cosmetics/cosm_28_2.jpg"
+  },
+  {
+    "id": "cosm_28_3",
+    "p": 28,
+    "box": [
+      0.2,
+      0.755,
+      0.55,
+      0.9
+    ],
+    "name": "Vegan Centella Asiatica Calming Toner",
+    "price": 10300,
+    "brand": "Pyunkang Yul",
+    "cat": "Тонеры и мисты",
+    "tag": "Веган",
+    "desc": "Веганский тонер с центеллой азиатской. Мгновенно успокаивает раздражения и возвращает коже комфорт.",
+    "image": "assets/products/cosmetics/cosm_28_3.jpg"
+  },
+  {
+    "id": "cosm_28_4",
+    "p": 28,
+    "box": [
+      0.58,
+      0.755,
+      0.95,
+      0.9
+    ],
+    "name": "Vegan Calming Deep Moisture Toner",
+    "price": 10300,
+    "brand": "Pyunkang Yul",
+    "cat": "Тонеры и мисты",
+    "tag": "Увлажнение",
+    "desc": "Глубоко увлажняющий веганский тонер с минималистичным и чистым составом для чувствительной кожи.",
+    "image": "assets/products/cosmetics/cosm_28_4.jpg"
+  },
+  {
+    "id": "cosm_29_1",
+    "p": 29,
+    "box": [
+      0.05,
+      0.245,
+      0.35,
+      0.5
+    ],
+    "name": "Manyo Herbgreen Cleansing Oil",
+    "price": 7900,
+    "brand": "Manyo",
+    "cat": "Очищение",
+    "tag": "Травяное масло",
+    "desc": "Очищающее гидрофильное масло на основе трав и чайного дерева для жирной и проблемной кожи.",
+    "image": "assets/products/cosmetics/cosm_29_1.jpg"
+  },
+  {
+    "id": "cosm_29_2",
+    "p": 29,
+    "box": [
+      0.35,
+      0.4,
+      0.65,
+      0.75
+    ],
+    "name": "Manyo Pure & Deep Cleansing Foam",
+    "price": 4900,
+    "brand": "Manyo",
+    "cat": "Очищение",
+    "tag": "Выбор объёма",
+    "desc": "Глубоко очищающая пенка с густой кремовой пеной для пор и сияния кожи.",
+    "volumes": [
+      {
+        "vol": "100 мл",
+        "p": "4 900 тг"
+      },
+      {
+        "vol": "200 мл",
+        "p": "5 950 тг"
+      }
+    ],
+    "image": "assets/products/cosmetics/cosm_29_2.jpg"
+  },
+  {
+    "id": "cosm_29_3",
+    "p": 29,
+    "box": [
+      0.65,
+      0.45,
+      0.95,
+      0.78
+    ],
+    "name": "Manyo Pure Cleansing Oil",
+    "price": 7900,
+    "brand": "Manyo",
+    "cat": "Очищение",
+    "tag": "Мировой хит No.1",
+    "desc": "Самое популярное гидрофильное масло в Корее! На 99.9% состоит из натуральных масел, смывает даже водостойкий макияж.",
+    "image": "assets/products/cosmetics/cosm_29_3.jpg"
+  },
+  {
+    "id": "cosm_29_4",
+    "p": 29,
+    "box": [
+      0.45,
+      0.268,
+      0.78,
+      0.4
+    ],
+    "name": "Manyo 4GF Eye Cream",
+    "price": 8800,
+    "brand": "Manyo",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Факторы роста 4GF",
+    "desc": "Антивозрастной крем для век с факторами роста 4GF и пептидами для разглаживания морщинок.",
+    "image": "assets/products/cosmetics/cosm_29_4.jpg"
+  },
+  {
+    "id": "cosm_29_5",
+    "p": 29,
+    "box": [
+      0.72,
+      0.15,
+      0.98,
+      0.4
+    ],
+    "name": "Manyo Pure Aqua Peeling Gel",
+    "price": 4700,
+    "brand": "Manyo",
+    "cat": "Очищение",
+    "tag": "Пилинг-скатка",
+    "desc": "Увлажняющий пилинг-гель скатка с гиалуроновой кислотой для деликатного отшелушивания ороговевших клеток.",
+    "image": "assets/products/cosmetics/cosm_29_5.jpg"
+  },
+  {
+    "id": "cosm_30_1",
+    "p": 30,
+    "box": [
+      0.05,
+      0.35,
+      0.35,
+      0.7
+    ],
+    "name": "Manyo Bifida Cica Herb Toner",
+    "price": 6100,
+    "brand": "Manyo",
+    "cat": "Тонеры и мисты",
+    "tag": "Бифидо & Центелла",
+    "desc": "Тонер с лизатами бифидобактерий и центеллой. Регенерирует поврежденный барьер и успокаивает высыпания.",
+    "image": "assets/products/cosmetics/cosm_30_1.jpg"
+  },
+  {
+    "id": "cosm_30_2",
+    "p": 30,
+    "box": [
+      0.35,
+      0.45,
+      0.65,
+      0.722
+    ],
+    "name": "Manyo Herb Cica Wash-off Pack",
+    "price": 7500,
+    "brand": "Manyo",
+    "cat": "Маски",
+    "tag": "Глиняная маска",
+    "desc": "Очищающая смываемая маска с каолином и центеллой для детокса пор и снижения жирности.",
+    "image": "assets/products/cosmetics/cosm_30_2.jpg"
+  },
+  {
+    "id": "cosm_30_3",
+    "p": 30,
+    "box": [
+      0.5,
+      0.252,
+      0.8,
+      0.55
+    ],
+    "name": "Manyo Herbgreen Cleansing Oil (Соя & Травы)",
+    "price": 6700,
+    "brand": "Manyo",
+    "cat": "Очищение",
+    "tag": "Масло сои",
+    "desc": "Успокаивающее гидрофильное масло с соевым маслом и травами для мягкого очищения.",
+    "image": "assets/products/cosmetics/cosm_30_3.jpg"
+  },
+  {
+    "id": "cosm_30_4",
+    "p": 30,
+    "box": [
+      0.72,
+      0.55,
+      0.98,
+      0.842
+    ],
+    "name": "Manyo Bifida Cica Herb Serum",
+    "price": 6700,
+    "brand": "Manyo",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Сыворотка",
+    "desc": "Сыворотка с ниацинамидом и бифидобактериями для сужения пор и восстановления проблемной кожи.",
+    "image": "assets/products/cosmetics/cosm_30_4.jpg"
+  },
+  {
+    "id": "cosm_31_1",
+    "p": 31,
+    "box": [
+      0.05,
+      0.45,
+      0.35,
+      0.681
+    ],
+    "name": "Manyo Galac Niacin 2.0 Essence",
+    "price": 6400,
+    "brand": "Manyo",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Галактомисис",
+    "desc": "Культовая осветляющая эссенция с 93.69% галактомисиса и ниацинамидом. Осветляет пигментацию и пост-акне.",
+    "image": "assets/products/cosmetics/cosm_31_1.jpg"
+  },
+  {
+    "id": "cosm_31_2",
+    "p": 31,
+    "box": [
+      0.28,
+      0.45,
+      0.58,
+      0.681
+    ],
+    "name": "Manyo Galac Whitening Vita Toner",
+    "price": 6200,
+    "brand": "Manyo",
+    "cat": "Тонеры и мисты",
+    "tag": "Витаминный тонер",
+    "desc": "Осветляющий витаминный тонер с галактомисисом для ровного и сияющего тона лица.",
+    "image": "assets/products/cosmetics/cosm_31_2.jpg"
+  },
+  {
+    "id": "cosm_31_3",
+    "p": 31,
+    "box": [
+      0.45,
+      0.25,
+      0.75,
+      0.55
+    ],
+    "name": "Manyo Bifida Biome Complex Ampoule",
+    "price": 6500,
+    "brand": "Manyo",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Хит Бифида",
+    "desc": "Омолаживающая ампула с бифидобактериями и 10 видами гиалуроновой кислоты. Укрепляет барьер и защищает от морщин.",
+    "image": "assets/products/cosmetics/cosm_31_3.jpg"
+  },
+  {
+    "id": "cosm_31_4",
+    "p": 31,
+    "box": [
+      0.65,
+      0.45,
+      0.98,
+      0.701
+    ],
+    "name": "Manyo Bifida Biome Ampoule Toner",
+    "price": 7600,
+    "brand": "Manyo",
+    "cat": "Тонеры и мисты",
+    "tag": "Ампульный тонер",
+    "desc": "Питательный ампульный тонер с пробиотиками для восстановления микробиома и гладкости кожи.",
+    "image": "assets/products/cosmetics/cosm_31_4.jpg"
+  },
+  {
+    "id": "cosm_32_1",
+    "p": 32,
+    "box": [
+      0.28,
+      0.188,
+      0.58,
+      0.38
+    ],
+    "name": "Lagom Cellup Micro Foam Cleanser",
+    "price": 5200,
+    "brand": "Lagom",
+    "cat": "Очищение",
+    "tag": "Микро-пенка",
+    "desc": "Воздушная микро-пенка с аквапоринами для идеального очищения пор без пересушивания кожи.",
+    "image": "assets/products/cosmetics/cosm_32_1.jpg"
+  },
+  {
+    "id": "cosm_32_2",
+    "p": 32,
+    "box": [
+      0.05,
+      0.504,
+      0.35,
+      0.65
+    ],
+    "name": "Lagom Cellup Sun Gel SPF50+",
+    "price": 6800,
+    "brand": "Lagom",
+    "cat": "Защита от солнца SPF",
+    "tag": "SPF Гель",
+    "desc": "Легкий увлажняющий гель-санскрин SPF50+. Мгновенно впитывается, не выбеливает и идеален под макияж.",
+    "image": "assets/products/cosmetics/cosm_32_2.jpg"
+  },
+  {
+    "id": "cosm_32_3",
+    "p": 32,
+    "box": [
+      0.62,
+      0.15,
+      0.92,
+      0.4
+    ],
+    "name": "Lagom Cellup Mist Toner",
+    "price": 5700,
+    "brand": "Lagom",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер-мист",
+    "desc": "Освежающий антибактериальный тонер-мист для поддержания оптимального pH и влаги кожи.",
+    "image": "assets/products/cosmetics/cosm_32_3.jpg"
+  },
+  {
+    "id": "cosm_32_4",
+    "p": 32,
+    "box": [
+      0.55,
+      0.558,
+      0.88,
+      0.75
+    ],
+    "name": "Lagom Cellup Deep Moisture Cream",
+    "price": 8400,
+    "brand": "Lagom",
+    "cat": "Кремы и лосьоны",
+    "tag": "Глубокое питание",
+    "desc": "Глубоко увлажняющий крем с аквапоринами для сухой и обезвоженной кожи.",
+    "image": "assets/products/cosmetics/cosm_32_4.jpg"
+  },
+  {
+    "id": "cosm_32_5",
+    "p": 32,
+    "box": [
+      0.42,
+      0.72,
+      0.72,
+      0.95
+    ],
+    "name": "Lagom Cellup Micellar Cleansing Water",
+    "price": 7500,
+    "brand": "Lagom",
+    "cat": "Очищение",
+    "tag": "Мицеллярная вода",
+    "desc": "Мягкая мицеллярная вода для деликатного очищения макияжа с лица и глаз.",
+    "image": "assets/products/cosmetics/cosm_32_5.jpg"
+  },
+  {
+    "id": "cosm_32_6",
+    "p": 32,
+    "box": [
+      0.05,
+      0.72,
+      0.35,
+      0.908
+    ],
+    "name": "Lagom White Kaolin Mud Mask",
+    "price": 8500,
+    "brand": "Lagom",
+    "cat": "Маски",
+    "tag": "Белая глина",
+    "desc": "Очищающая глиняная маска с белым каолином для сужения пор и детокса кожи.",
+    "image": "assets/products/cosmetics/cosm_32_6.jpg"
+  },
+  {
+    "id": "cosm_33_1",
+    "p": 33,
+    "box": [
+      0.05,
+      0.6,
+      0.35,
+      0.79
+    ],
+    "name": "Anua PDRN Hyaluron Glow Pad",
+    "price": 8750,
+    "brand": "Anua",
+    "cat": "Пэды и диски",
+    "tag": "Glow Pad",
+    "desc": "Сияющие диски с PDRN и гиалуроновой кислотой. Разглаживают микрорельеф и дарят роскошный стеклянный глянец.",
+    "image": "assets/products/cosmetics/cosm_33_1.jpg"
+  },
+  {
+    "id": "cosm_33_2",
+    "p": 33,
+    "box": [
+      0.28,
+      0.65,
+      0.58,
+      0.778
+    ],
+    "name": "Anua PDRN Hyaluron Capsule Serum",
+    "price": 9400,
+    "brand": "Anua",
+    "cat": "Сыворотки и ампулы",
+    "tag": "PDRN Капсулы",
+    "desc": "Капсульная сыворотка с лососевым PDRN и гиалуроновой кислотой для лифтинга и глубокого увлажнения.",
+    "image": "assets/products/cosmetics/cosm_33_2.jpg"
+  },
+  {
+    "id": "cosm_33_3",
+    "p": 33,
+    "box": [
+      0.5,
+      0.6,
+      0.78,
+      0.778
+    ],
+    "name": "Anua PDRN Hyaluron Cream",
+    "price": 8700,
+    "brand": "Anua",
+    "cat": "Кремы и лосьоны",
+    "tag": "Лифтинг крем",
+    "desc": "Омолаживающий крем с PDRN для восстановления упругости, плотности и эластичности кожи.",
+    "image": "assets/products/cosmetics/cosm_33_3.jpg"
+  },
+  {
+    "id": "cosm_33_4",
+    "p": 33,
+    "box": [
+      0.7,
+      0.6,
+      0.98,
+      0.79
+    ],
+    "name": "Anua PDRN Hyaluron Booster Toner",
+    "price": 8100,
+    "brand": "Anua",
+    "cat": "Тонеры и мисты",
+    "tag": "Бустер-тонер",
+    "desc": "Бустер-тонер с PDRN для подготовки кожи к нанесению активного антивозрастного ухода.",
+    "image": "assets/products/cosmetics/cosm_33_4.jpg"
+  },
+  {
+    "id": "cosm_34_1",
+    "p": 34,
+    "box": [
+      0.05,
+      0.45,
+      0.35,
+      0.784
+    ],
+    "name": "Anua Azelaic Acid 10 Clarifying Toner",
+    "price": 8100,
+    "brand": "Anua",
+    "cat": "Тонеры и мисты",
+    "tag": "Азелаиновая к-та",
+    "desc": "Очищающий тонер с 10% азелаиновой кислотой и центеллой. Успокаивает раздражения, предотвращает комедоны и покраснения.",
+    "image": "assets/products/cosmetics/cosm_34_1.jpg"
+  },
+  {
+    "id": "cosm_34_2",
+    "p": 34,
+    "box": [
+      0.35,
+      0.45,
+      0.65,
+      0.748
+    ],
+    "name": "Anua Azelaic Acid 10 Redness Soothing Pad",
+    "price": 8750,
+    "brand": "Anua",
+    "cat": "Пэды и диски",
+    "tag": "Пэды от красноты",
+    "desc": "Успокаивающие диски против покраснений и купероза с азелаиновой кислотой и гиалуроном.",
+    "image": "assets/products/cosmetics/cosm_34_2.jpg"
+  },
+  {
+    "id": "cosm_34_3",
+    "p": 34,
+    "box": [
+      0.65,
+      0.45,
+      0.95,
+      0.79
+    ],
+    "name": "Anua Azelaic Acid 10 Hyaluron Soothing Serum",
+    "price": 8000,
+    "brand": "Anua",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Сыворотка",
+    "desc": "Сыворотка против покраснений и розацеа. Снимает жар, воспаления и укрепляет капилляры.",
+    "image": "assets/products/cosmetics/cosm_34_3.jpg"
+  },
+  {
+    "id": "cosm_35_1",
+    "p": 35,
+    "box": [
+      0.18,
+      0.35,
+      0.48,
+      0.65
+    ],
+    "name": "Anua Peach 77 Niacin Toner",
+    "price": 7500,
+    "brand": "Anua",
+    "cat": "Тонеры и мисты",
+    "tag": "Персик 77%",
+    "desc": "Тонер с экстрактом ферментированного персика (77%) и ниацинамидом. Дарит коже персиковую нежность и сияние.",
+    "image": "assets/products/cosmetics/cosm_35_1.jpg"
+  },
+  {
+    "id": "cosm_35_2",
+    "p": 35,
+    "box": [
+      0.05,
+      0.65,
+      0.35,
+      0.9
+    ],
+    "name": "Anua Peach 77 Niacin Conditioning Milk",
+    "price": 8000,
+    "brand": "Anua",
+    "cat": "Кремы и лосьоны",
+    "tag": "Молочко",
+    "desc": "Кондиционирующее нежное молочко для увлажнения, гладкости и выравнивания тона лица.",
+    "image": "assets/products/cosmetics/cosm_35_2.jpg"
+  },
+  {
+    "id": "cosm_35_3",
+    "p": 35,
+    "box": [
+      0.35,
+      0.65,
+      0.65,
+      0.9
+    ],
+    "name": "Anua Peach 77 Niacin Enriched Cream",
+    "price": 8500,
+    "brand": "Anua",
+    "cat": "Кремы и лосьоны",
+    "tag": "Крем",
+    "desc": "Питательный персиковый крем с ниацинамидом для глубокого увлажнения и устранения тусклости.",
+    "image": "assets/products/cosmetics/cosm_35_3.jpg"
+  },
+  {
+    "id": "cosm_35_4",
+    "p": 35,
+    "box": [
+      0.68,
+      0.65,
+      0.98,
+      0.834
+    ],
+    "name": "Anua Peach 70 Niacin Serum",
+    "price": 8500,
+    "brand": "Anua",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Хит продаж",
+    "desc": "Знаменитая персиковая сыворотка с ниацинамидом. Осветляет следы постакне и придает эффект glass skin.",
+    "image": "assets/products/cosmetics/cosm_35_4.jpg"
+  },
+  {
+    "id": "cosm_36_1",
+    "p": 36,
+    "box": [
+      0.05,
+      0.408,
+      0.32,
+      0.6
+    ],
+    "name": "VT Cosmetics Reedle Shot 100",
+    "price": 8500,
+    "brand": "VT Cosmetics",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Микроиглы No.1",
+    "desc": "Культовый бустер с 95 000 микроигл Cica Reedle. Проникает глубоко в дерму, запуская синтез коллагена и обновление клеток.",
+    "image": "assets/products/cosmetics/cosm_36_1.jpg"
+  },
+  {
+    "id": "cosm_36_2",
+    "p": 36,
+    "box": [
+      0.05,
+      0.68,
+      0.35,
+      0.872
+    ],
+    "name": "VT Cosmetics PDRN Capsule Cream",
+    "price": 9000,
+    "brand": "VT Cosmetics",
+    "cat": "Кремы и лосьоны",
+    "tag": "PDRN Капсулы",
+    "desc": "Капсульный омолаживающий крем с PDRN для глубокого лифтинга и разглаживания морщин.",
+    "image": "assets/products/cosmetics/cosm_36_2.jpg"
+  },
+  {
+    "id": "cosm_36_3",
+    "p": 36,
+    "box": [
+      0.35,
+      0.68,
+      0.6,
+      0.923
+    ],
+    "name": "VT Cosmetics PDRN Essence Balm Stick",
+    "price": 8000,
+    "brand": "VT Cosmetics",
+    "cat": "Кремы и лосьоны",
+    "tag": "Бальзам-стик",
+    "desc": "Увлажняющий бальзам-стик с PDRN для мгновенного сияния, питания сухих зон и разглаживания мимических морщинок.",
+    "image": "assets/products/cosmetics/cosm_36_3.jpg"
+  },
+  {
+    "id": "cosm_36_4",
+    "p": 36,
+    "box": [
+      0.5,
+      0.68,
+      0.78,
+      0.923
+    ],
+    "name": "VT Cosmetics PDRN Daily Mask (30 шт)",
+    "price": 9000,
+    "brand": "VT Cosmetics",
+    "cat": "Маски",
+    "tag": "30 масок",
+    "desc": "Набор из 30 тканевых масок с PDRN в удобной упаковке-боксе для ежедневного омоложения и упругости.",
+    "image": "assets/products/cosmetics/cosm_36_4.jpg"
+  },
+  {
+    "id": "cosm_36_5",
+    "p": 36,
+    "box": [
+      0.75,
+      0.68,
+      0.98,
+      0.923
+    ],
+    "name": "VT Cosmetics PDRN Cleansing Balm",
+    "price": 9500,
+    "brand": "VT Cosmetics",
+    "cat": "Очищение",
+    "tag": "Щербет бальзам",
+    "desc": "Очищающий тающий бальзам с PDRN для бережного удаления стойкого макияжа и питания зрелой кожи.",
+    "image": "assets/products/cosmetics/cosm_36_5.jpg"
+  },
+  {
+    "id": "cosm_36_6",
+    "p": 36,
+    "box": [
+      0.35,
+      0.32,
+      0.62,
+      0.6
+    ],
+    "name": "VT Cosmetics PDRN Glow Ampoule",
+    "price": 8500,
+    "brand": "VT Cosmetics",
+    "cat": "Сыворотки и ампулы",
+    "tag": "PDRN Сияние",
+    "desc": "Сияющая ампульная сыворотка с растительным PDRN для упругости и сияния кожи.",
+    "image": "assets/products/cosmetics/cosm_36_6.jpg"
+  },
+  {
+    "id": "cosm_37_1",
+    "p": 37,
+    "box": [
+      0.05,
+      0.423,
+      0.28,
+      0.65
+    ],
+    "name": "VT Cosmetics Cica Collagen Eye Cream",
+    "price": 8500,
+    "brand": "VT Cosmetics",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Коллаген",
+    "desc": "Крем для век с центеллой и коллагеном для увлажнения и защиты от первых признаков увядания.",
+    "image": "assets/products/cosmetics/cosm_37_1.jpg"
+  },
+  {
+    "id": "cosm_37_2",
+    "p": 37,
+    "box": [
+      0.28,
+      0.35,
+      0.52,
+      0.65
+    ],
+    "name": "VT Cosmetics Reedle Shot Lifting Eye Cream",
+    "price": 8500,
+    "brand": "VT Cosmetics",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Микроиглы лифтинг",
+    "desc": "Лифтинг-крем для век с микроиглами Cica Reedle. Проникает глубоко, разглаживая 'гусиные лапки'.",
+    "image": "assets/products/cosmetics/cosm_37_2.jpg"
+  },
+  {
+    "id": "cosm_37_3",
+    "p": 37,
+    "box": [
+      0.52,
+      0.35,
+      0.75,
+      0.65
+    ],
+    "name": "VT Cosmetics PDRN Reedle Shot Eye Lifter",
+    "price": 8800,
+    "brand": "VT Cosmetics",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "PDRN & Золото",
+    "desc": "Премиальный крем для век с PDRN, микроиглами и био-золотом для заметного лифтинга нависшего века.",
+    "image": "assets/products/cosmetics/cosm_37_3.jpg"
+  },
+  {
+    "id": "cosm_37_4",
+    "p": 37,
+    "box": [
+      0.75,
+      0.35,
+      0.98,
+      0.65
+    ],
+    "name": "VT Cosmetics Reedle Shot Vita-Light Eye Cream",
+    "price": 8300,
+    "brand": "VT Cosmetics",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Витамин C",
+    "desc": "Крем для век с микроиглами и витамином C. Эффективно осветляет темные круги и синеву под глазами.",
+    "image": "assets/products/cosmetics/cosm_37_4.jpg"
+  },
+  {
+    "id": "cosm_38_1",
+    "p": 38,
+    "box": [
+      0.05,
+      0.22,
+      0.4,
+      0.408
+    ],
+    "name": "Skin&Lab Niacinamide Recovery Serum",
+    "price": 7900,
+    "brand": "Skin&Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Ниацинамид",
+    "desc": "Восстанавливающая сыворотка с ниацинамидом и цинком для борьбы с постакне и себорегуляции.",
+    "image": "assets/products/cosmetics/cosm_38_1.jpg"
+  },
+  {
+    "id": "cosm_38_2",
+    "p": 38,
+    "box": [
+      0.05,
+      0.68,
+      0.4,
+      0.868
+    ],
+    "name": "Skin&Lab Retinol Repair Serum",
+    "price": 7900,
+    "brand": "Skin&Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Ретинол",
+    "desc": "Омолаживающая сыворотка с липосомальным ретинолом для разглаживания морщин и обновления текстуры.",
+    "image": "assets/products/cosmetics/cosm_38_2.jpg"
+  },
+  {
+    "id": "cosm_38_3",
+    "p": 38,
+    "box": [
+      0.45,
+      0.18,
+      0.75,
+      0.391
+    ],
+    "name": "Skin&Lab Barrierderm Foam Cleanser",
+    "price": 6300,
+    "brand": "Skin&Lab",
+    "cat": "Очищение",
+    "tag": "Мягкая пенка",
+    "desc": "Барьерная слабокислотная пенка с молочными керамидами для нежного умывания без скрипа.",
+    "image": "assets/products/cosmetics/cosm_38_3.jpg"
+  },
+  {
+    "id": "cosm_38_4",
+    "p": 38,
+    "box": [
+      0.6,
+      0.423,
+      0.95,
+      0.58
+    ],
+    "name": "Skin&Lab Bakuchiol Eye Serum",
+    "price": 7900,
+    "brand": "Skin&Lab",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Бакучиол",
+    "desc": "Антивозрастная сыворотка для век с бакучиолом (растительным ретинолом) для нежной кожи вокруг глаз.",
+    "image": "assets/products/cosmetics/cosm_38_4.jpg"
+  },
+  {
+    "id": "cosm_38_5",
+    "p": 38,
+    "box": [
+      0.5,
+      0.68,
+      0.85,
+      0.92
+    ],
+    "name": "Skin&Lab Barrierderm Milky Serum",
+    "price": 7900,
+    "brand": "Skin&Lab",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Молочные керамиды",
+    "desc": "Молочная барьерная сыворотка с керамидами для глубокого восстановления поврежденной кожи.",
+    "image": "assets/products/cosmetics/cosm_38_5.jpg"
+  },
+  {
+    "id": "cosm_39_1",
+    "p": 39,
+    "box": [
+      0.15,
+      0.329,
+      0.5,
+      0.55
+    ],
+    "name": "Skin1004 Madagascar Centella Ampoule",
+    "price": 5700,
+    "brand": "Skin1004",
+    "cat": "Сыворотки и ампулы",
+    "tag": "100% Центелла",
+    "desc": "Знаменитая ампула из 100% мадагаскарской центеллы азиатской. Мгновенно успокаивает покраснения и снимает зуд.",
+    "image": "assets/products/cosmetics/cosm_39_1.jpg"
+  },
+  {
+    "id": "cosm_39_2",
+    "p": 39,
+    "box": [
+      0.05,
+      0.55,
+      0.4,
+      0.82
+    ],
+    "name": "Skin1004 Madagascar Centella Toning Toner",
+    "price": 6500,
+    "brand": "Skin1004",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер PHA",
+    "desc": "Успокаивающий тонер с PHA-кислотой для деликатного ежедневного отшелушивания и гидратации.",
+    "image": "assets/products/cosmetics/cosm_39_2.jpg"
+  },
+  {
+    "id": "cosm_39_3",
+    "p": 39,
+    "box": [
+      0.35,
+      0.55,
+      0.65,
+      0.82
+    ],
+    "name": "Skin1004 Madagascar Centella Ampoule Foam",
+    "price": 5600,
+    "brand": "Skin1004",
+    "cat": "Очищение",
+    "tag": "Пенка",
+    "desc": "Слабокислотная ампульная пенка с экстрактом центеллы и содой для чистоты пор без пересушивания.",
+    "image": "assets/products/cosmetics/cosm_39_3.jpg"
+  },
+  {
+    "id": "cosm_39_4",
+    "p": 39,
+    "box": [
+      0.55,
+      0.364,
+      0.9,
+      0.55
+    ],
+    "name": "Skin1004 Madagascar Centella Soothing Cream",
+    "price": 7300,
+    "brand": "Skin1004",
+    "cat": "Кремы и лосьоны",
+    "tag": "Гель-крем",
+    "desc": "Легкий восстанавливающий гель-крем с 4 видами церамидов для укрепления липидного слоя.",
+    "image": "assets/products/cosmetics/cosm_39_4.jpg"
+  },
+  {
+    "id": "cosm_39_5",
+    "p": 39,
+    "box": [
+      0.65,
+      0.55,
+      0.98,
+      0.82
+    ],
+    "name": "Skin1004 Madagascar Centella Light Cleansing Oil",
+    "price": 6400,
+    "brand": "Skin1004",
+    "cat": "Очищение",
+    "tag": "Масло",
+    "desc": "Легкое гидрофильное масло с центеллой и растительными маслами для растворения стойкого макияжа.",
+    "image": "assets/products/cosmetics/cosm_39_5.jpg"
+  },
+  {
+    "id": "cosm_40_1",
+    "p": 40,
+    "box": [
+      0.25,
+      0.325,
+      0.6,
+      0.6
+    ],
+    "name": "Skin1004 Probio-Cica Essence Toner",
+    "price": 6650,
+    "brand": "Skin1004",
+    "cat": "Тонеры и мисты",
+    "tag": "Пробиотики",
+    "desc": "Питательный тонер-эссенция с ферментированной центеллой Probio-Cica и керамидами для восстановления.",
+    "image": "assets/products/cosmetics/cosm_40_1.jpg"
+  },
+  {
+    "id": "cosm_40_2",
+    "p": 40,
+    "box": [
+      0.05,
+      0.52,
+      0.4,
+      0.82
+    ],
+    "name": "Skin1004 Probio-Cica Enrich Cream",
+    "price": 7200,
+    "brand": "Skin1004",
+    "cat": "Кремы и лосьоны",
+    "tag": "Обогащенный крем",
+    "desc": "Насыщенный ламеллярный крем для интенсивного восстановления сухого, поврежденного барьера.",
+    "image": "assets/products/cosmetics/cosm_40_2.jpg"
+  },
+  {
+    "id": "cosm_40_3",
+    "p": 40,
+    "box": [
+      0.6,
+      0.32,
+      0.95,
+      0.598
+    ],
+    "name": "Skin1004 Probio-Cica Intensive Ampoule",
+    "price": 6800,
+    "brand": "Skin1004",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Ампула",
+    "desc": "Высококонцентрированная питательная ампула для восстановления реактивной и шелушащейся кожи.",
+    "image": "assets/products/cosmetics/cosm_40_3.jpg"
+  },
+  {
+    "id": "cosm_40_4",
+    "p": 40,
+    "box": [
+      0.45,
+      0.769,
+      0.85,
+      0.92
+    ],
+    "name": "Skin1004 Probio-Cica Bakuchiol Eye Cream",
+    "price": 6500,
+    "brand": "Skin1004",
+    "cat": "Уход за кожей вокруг глаз",
+    "tag": "Для век",
+    "desc": "Омолаживающий крем для век с бакучиолом и пробиотиками против мимических морщин и дряблости.",
+    "image": "assets/products/cosmetics/cosm_40_4.jpg"
+  },
+  {
+    "id": "cosm_41_1",
+    "p": 41,
+    "box": [
+      0.05,
+      0.32,
+      0.32,
+      0.58
+    ],
+    "name": "Skin1004 Hyalu-Cica Clarifying Blue Toner",
+    "price": 6800,
+    "brand": "Skin1004",
+    "cat": "Тонеры и мисты",
+    "tag": "Гиалурон & Cica",
+    "desc": "Увлажняющий тонер с гидролатом центеллы и 5 видами гиалуроновой кислоты для мгновенной свежести.",
+    "image": "assets/products/cosmetics/cosm_41_1.jpg"
+  },
+  {
+    "id": "cosm_41_2",
+    "p": 41,
+    "box": [
+      0.05,
+      0.65,
+      0.35,
+      0.9
+    ],
+    "name": "Skin1004 Hyalu-Cica Water-Fit Sun Serum SPF50+",
+    "price": 6200,
+    "brand": "Skin1004",
+    "cat": "Защита от солнца SPF",
+    "tag": "Топ Санскрин",
+    "desc": "Бестселлер в мире! Водянистая солнцезащитная сыворотка SPF50+, неощутимая на лице, без белизны и липкости.",
+    "image": "assets/products/cosmetics/cosm_41_2.jpg"
+  },
+  {
+    "id": "cosm_41_3",
+    "p": 41,
+    "box": [
+      0.28,
+      0.471,
+      0.58,
+      0.641
+    ],
+    "name": "Skin1004 Hyalu-Cica Ampoule Pads",
+    "price": 7900,
+    "brand": "Skin1004",
+    "cat": "Пэды и диски",
+    "tag": "Ампульные диски",
+    "desc": "Ампульные патчи-диски для глубокого увлажнения обезвоженных участков лица.",
+    "image": "assets/products/cosmetics/cosm_41_3.jpg"
+  },
+  {
+    "id": "cosm_41_4",
+    "p": 41,
+    "box": [
+      0.58,
+      0.352,
+      0.88,
+      0.58
+    ],
+    "name": "Skin1004 Hyalu-Cica Blue Serum",
+    "price": 6800,
+    "brand": "Skin1004",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Синяя сыворотка",
+    "desc": "Интенсивно увлажняющая сыворотка с гиалуроновой кислотой и центеллой для сияния и гладкости.",
+    "image": "assets/products/cosmetics/cosm_41_4.jpg"
+  },
+  {
+    "id": "cosm_41_5",
+    "p": 41,
+    "box": [
+      0.45,
+      0.721,
+      0.78,
+      0.9
+    ],
+    "name": "Skin1004 Hyalu-Cica Moisture Cream",
+    "price": 7100,
+    "brand": "Skin1004",
+    "cat": "Кремы и лосьоны",
+    "tag": "Увлажняющий крем",
+    "desc": "Невесомый водянистый крем для глубокого насыщения кожи влагой на 24 часа.",
+    "image": "assets/products/cosmetics/cosm_41_5.jpg"
+  },
+  {
+    "id": "cosm_42_1",
+    "p": 42,
+    "box": [
+      0.05,
+      0.28,
+      0.4,
+      0.58
+    ],
+    "name": "Skin1004 Tea-Trica BHA Foam Cleanser",
+    "price": 5800,
+    "brand": "Skin1004",
+    "cat": "Очищение",
+    "tag": "Антибактериальная",
+    "desc": "Антибактериальная пенка с салициловой кислотой BHA и чайным деревом для проблемной кожи с акне.",
+    "image": "assets/products/cosmetics/cosm_42_1.jpg"
+  },
+  {
+    "id": "cosm_42_2",
+    "p": 42,
+    "box": [
+      0.55,
+      0.32,
+      0.95,
+      0.62
+    ],
+    "name": "Skin1004 Tea-Trica Purifying Toner",
+    "price": 6600,
+    "brand": "Skin1004",
+    "cat": "Тонеры и мисты",
+    "tag": "Очищающий тонер",
+    "desc": "Очищающий тонер с чайным деревом и центеллой для сужения пор и предотвращения новых высыпаний.",
+    "image": "assets/products/cosmetics/cosm_42_2.jpg"
+  },
+  {
+    "id": "cosm_42_3",
+    "p": 42,
+    "box": [
+      0.6,
+      0.65,
+      0.95,
+      0.92
+    ],
+    "name": "Skin1004 Tea-Trica Relief Ampoule",
+    "price": 7600,
+    "brand": "Skin1004",
+    "cat": "Сыворотки и ампулы",
+    "tag": "SOS-ампула",
+    "desc": "Успокаивающая SOS-ампула для быстрого снятия активных воспалений и красноты.",
+    "image": "assets/products/cosmetics/cosm_42_3.jpg"
+  },
+  {
+    "id": "cosm_43_1",
+    "p": 43,
+    "box": [
+      0.05,
+      0.55,
+      0.32,
+      0.82
+    ],
+    "name": "Skin1004 Poremizing Deep Cleansing Foam",
+    "price": 5700,
+    "brand": "Skin1004",
+    "cat": "Очищение",
+    "tag": "Морская соль",
+    "desc": "Глубоко очищающая пенка с гималайской розовой солью для тщательного очищения пор от сальных пробок.",
+    "image": "assets/products/cosmetics/cosm_43_1.jpg"
+  },
+  {
+    "id": "cosm_43_2",
+    "p": 43,
+    "box": [
+      0.24,
+      0.55,
+      0.48,
+      0.82
+    ],
+    "name": "Skin1004 Poremizing Clear Toner",
+    "price": 6600,
+    "brand": "Skin1004",
+    "cat": "Тонеры и мисты",
+    "tag": "Тонер для пор",
+    "desc": "Очищающий тонер с солью и пептидами для сужения пор и матирования жирной кожи.",
+    "image": "assets/products/cosmetics/cosm_43_2.jpg"
+  },
+  {
+    "id": "cosm_43_3",
+    "p": 43,
+    "box": [
+      0.44,
+      0.55,
+      0.68,
+      0.82
+    ],
+    "name": "Skin1004 Poremizing Fresh Ampoule",
+    "price": 7500,
+    "brand": "Skin1004",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Пептидная ампула",
+    "desc": "Пептидная ампула с 50% экстрактом центеллы для повышения эластичности стенок пор.",
+    "image": "assets/products/cosmetics/cosm_43_3.jpg"
+  },
+  {
+    "id": "cosm_43_4",
+    "p": 43,
+    "box": [
+      0.62,
+      0.55,
+      0.85,
+      0.82
+    ],
+    "name": "Skin1004 Poremizing Light Gel Cream",
+    "price": 6500,
+    "brand": "Skin1004",
+    "cat": "Кремы и лосьоны",
+    "tag": "Легкий гель-крем",
+    "desc": "Легкий гель-крем с минералами розовой соли для сужения пор и матирования без чувства сухости.",
+    "image": "assets/products/cosmetics/cosm_43_4.jpg"
+  },
+  {
+    "id": "cosm_43_5",
+    "p": 43,
+    "box": [
+      0.78,
+      0.55,
+      0.98,
+      0.82
+    ],
+    "name": "Skin1004 Poremizing Sun Stick SPF50+",
+    "price": 6700,
+    "brand": "Skin1004",
+    "cat": "Защита от солнца SPF",
+    "tag": "Матирующий стик",
+    "desc": "Матирующий солнцезащитный стик с морской солью. Устраняет жирный блеск и надежно защищает от УФ-лучей.",
+    "image": "assets/products/cosmetics/cosm_43_5.jpg"
+  },
+  {
+    "id": "cosm_44_1",
+    "p": 44,
+    "box": [
+      0.05,
+      0.325,
+      0.35,
+      0.55
+    ],
+    "name": "Torriden Dive-In Cleansing Foam",
+    "price": 5400,
+    "brand": "Torriden",
+    "cat": "Очищение",
+    "tag": "Аминокислоты",
+    "desc": "Нежная пенка с аминокислотами и гиалуроновой кислотой. Мягко смывает загрязнения, не сушит кожу.",
+    "image": "assets/products/cosmetics/cosm_44_1.jpg"
+  },
+  {
+    "id": "cosm_44_2",
+    "p": 44,
+    "box": [
+      0.15,
+      0.65,
+      0.45,
+      0.9
+    ],
+    "name": "Torriden Dive-In Low Molecular Hyaluronic Toner",
+    "price": 6600,
+    "brand": "Torriden",
+    "cat": "Тонеры и мисты",
+    "tag": "5D Гиалурон",
+    "desc": "Тонер с 5 типами низкомолекулярной гиалуроновой кислоты для глубокого утоления жажды кожи.",
+    "image": "assets/products/cosmetics/cosm_44_2.jpg"
+  },
+  {
+    "id": "cosm_44_3",
+    "p": 44,
+    "box": [
+      0.35,
+      0.32,
+      0.65,
+      0.6
+    ],
+    "name": "Torriden Dive-In Multi Pad",
+    "price": 6600,
+    "brand": "Torriden",
+    "cat": "Пэды и диски",
+    "tag": "Мульти-пэды",
+    "desc": "Ультрамягкие увлажняющие диски с пантенолом и аллантоином для быстрого успокоения кожи.",
+    "image": "assets/products/cosmetics/cosm_44_3.jpg"
+  },
+  {
+    "id": "cosm_44_4",
+    "p": 44,
+    "box": [
+      0.65,
+      0.28,
+      0.95,
+      0.55
+    ],
+    "name": "Torriden Dive-In Serum",
+    "price": 6400,
+    "brand": "Torriden",
+    "cat": "Сыворотки и ампулы",
+    "tag": "Хит No.1 в Корее",
+    "desc": "Самая титулованная увлажняющая сыворотка Кореи! Малахитовый комплекс и 5D гиалурон мгновенно стирают сухость.",
+    "image": "assets/products/cosmetics/cosm_44_4.jpg"
+  },
+  {
+    "id": "cosm_44_5",
+    "p": 44,
+    "box": [
+      0.55,
+      0.65,
+      0.9,
+      0.9
+    ],
+    "name": "Torriden Dive-In Soothing Cream",
+    "price": 6700,
+    "brand": "Torriden",
+    "cat": "Кремы и лосьоны",
+    "tag": "Успокаивающий гель",
+    "desc": "Освежающий успокаивающий гель-крем с трегалозой и аллантоином для поддержания барьера влаги.",
+    "image": "assets/products/cosmetics/cosm_44_5.jpg"
+  }
+]
